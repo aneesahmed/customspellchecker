@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="83" ChapterName="The Defrauders">
+	<Verse VerseID="1"><![CDATA[Woe to those that deal in fraud,-]]></Verse>
+	<Verse VerseID="2"><![CDATA[Those who, when they have to receive by measure from men, exact full measure,]]></Verse>
+	<Verse VerseID="3"><![CDATA[But when they have to give by measure or weight to men, give less than due.]]></Verse>
+	<Verse VerseID="4"><![CDATA[Do they not think that they will be called to account?-]]></Verse>
+	<Verse VerseID="5"><![CDATA[On a Mighty Day,]]></Verse>
+	<Verse VerseID="6"><![CDATA[A Day when (all) mankind will stand before the Lord of the Worlds?]]></Verse>
+	<Verse VerseID="7"><![CDATA[Nay! Surely the record of the wicked is (preserved) in Sijjin.]]></Verse>
+	<Verse VerseID="8"><![CDATA[And what will explain to thee what Sijjin is?]]></Verse>
+	<Verse VerseID="9"><![CDATA[(There is) a Register (fully) inscribed.]]></Verse>
+	<Verse VerseID="10"><![CDATA[Woe, that Day, to those that deny-]]></Verse>
+	<Verse VerseID="11"><![CDATA[Those that deny the Day of Judgment.]]></Verse>
+	<Verse VerseID="12"><![CDATA[And none can deny it but the Transgressor beyond bounds the Sinner!]]></Verse>
+	<Verse VerseID="13"><![CDATA[When Our Signs are rehearsed to him, he says, "Tales of the ancients!"]]></Verse>
+	<Verse VerseID="14"><![CDATA[By no means! but on their hearts is the stain of the (ill) which they do!]]></Verse>
+	<Verse VerseID="15"><![CDATA[Verily, from (the Light of) their Lord, that Day, will they be veiled.]]></Verse>
+	<Verse VerseID="16"><![CDATA[Further, they will enter the Fire of Hell.]]></Verse>
+	<Verse VerseID="17"><![CDATA[Further, it will be said to them: "This is the (reality) which ye rejected as false!]]></Verse>
+	<Verse VerseID="18"><![CDATA[Day, verily the record of the Righteous is (preserved) in ´Illiyin.]]></Verse>
+	<Verse VerseID="19"><![CDATA[And what will explain to thee what ´Illiyun is?]]></Verse>
+	<Verse VerseID="20"><![CDATA[(There is) a Register (fully) inscribed,]]></Verse>
+	<Verse VerseID="21"><![CDATA[To which bear witness those Nearest (to Allah).]]></Verse>
+	<Verse VerseID="22"><![CDATA[Truly the Righteous will be in Bliss:]]></Verse>
+	<Verse VerseID="23"><![CDATA[On Thrones (of Dignity) will they command a sight (of all things):]]></Verse>
+	<Verse VerseID="24"><![CDATA[Thou wilt recognise in their faces the beaming brightness of Bliss.]]></Verse>
+	<Verse VerseID="25"><![CDATA[Their thirst will be slaked with Pure Wine sealed:]]></Verse>
+	<Verse VerseID="26"><![CDATA[The seal thereof will be Musk: And for this let those aspire, who have aspirations:]]></Verse>
+	<Verse VerseID="27"><![CDATA[With it will be (given) a mixture of Tasnim:]]></Verse>
+	<Verse VerseID="28"><![CDATA[A spring, from (the waters) whereof drink those Nearest to Allah.]]></Verse>
+	<Verse VerseID="29"><![CDATA[Those in sin used to laugh at those who believed,]]></Verse>
+	<Verse VerseID="30"><![CDATA[And whenever they passed by them, used to wink at each other (in mockery);]]></Verse>
+	<Verse VerseID="31"><![CDATA[And when they returned to their own people, they would return jesting;]]></Verse>
+	<Verse VerseID="32"><![CDATA[And whenever they saw them, they would say, "Behold! These are the people truly astray!"]]></Verse>
+	<Verse VerseID="33"><![CDATA[But they had not been sent as keepers over them!]]></Verse>
+	<Verse VerseID="34"><![CDATA[But on this Day the Believers will laugh at the Unbelievers:]]></Verse>
+	<Verse VerseID="35"><![CDATA[On Thrones (of Dignity) they will command (a sight) (of all things).]]></Verse>
+	<Verse VerseID="36"><![CDATA[Will not the Unbelievers have been paid back for what they did?]]></Verse>
+</Chapter>

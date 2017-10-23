@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="68" ChapterName="The Pen">
+	<Verse VerseID="1"><![CDATA[Nun. By the Pen and the (Record) which (men) write,-]]></Verse>
+	<Verse VerseID="2"><![CDATA[Thou art not, by the Grace of thy Lord, mad or possessed.]]></Verse>
+	<Verse VerseID="3"><![CDATA[Nay, verily for thee is a Reward unfailing:]]></Verse>
+	<Verse VerseID="4"><![CDATA[And thou (standest) on an exalted standard of character.]]></Verse>
+	<Verse VerseID="5"><![CDATA[Soon wilt thou see, and they will see,]]></Verse>
+	<Verse VerseID="6"><![CDATA[Which of you is afflicted with madness.]]></Verse>
+	<Verse VerseID="7"><![CDATA[Verily it is thy Lord that knoweth best, which (among men) hath strayed from His Path: and He knoweth best those who receive (true) Guidance.]]></Verse>
+	<Verse VerseID="8"><![CDATA[So hearken not to those who deny (the Truth).]]></Verse>
+	<Verse VerseID="9"><![CDATA[Their desire is that thou shouldst be pliant: so would they be pliant.]]></Verse>
+	<Verse VerseID="10"><![CDATA[Heed not the type of despicable men,- ready with oaths,]]></Verse>
+	<Verse VerseID="11"><![CDATA[A slanderer, going about with calumnies,]]></Verse>
+	<Verse VerseID="12"><![CDATA[(Habitually) hindering (all) good, transgressing beyond bounds, deep in sin,]]></Verse>
+	<Verse VerseID="13"><![CDATA[Violent (and cruel),- with all that, base-born,-]]></Verse>
+	<Verse VerseID="14"><![CDATA[Because he possesses wealth and (numerous) sons.]]></Verse>
+	<Verse VerseID="15"><![CDATA[When to him are rehearsed Our Signs, "Tales of the ancients", he cries!]]></Verse>
+	<Verse VerseID="16"><![CDATA[Soon shall We brand (the beast) on the snout!]]></Verse>
+	<Verse VerseID="17"><![CDATA[Verily We have tried them as We tried the People of the Garden, when they resolved to gather the fruits of the (garden) in the morning.]]></Verse>
+	<Verse VerseID="18"><![CDATA[But made no reservation, ("If it be Allah´s Will").]]></Verse>
+	<Verse VerseID="19"><![CDATA[Then there came on the (garden) a visitation from thy Lord, (which swept away) all around, while they were asleep.]]></Verse>
+	<Verse VerseID="20"><![CDATA[So the (garden) became, by the morning, like a dark and desolate spot, (whose fruit had been gathered).]]></Verse>
+	<Verse VerseID="21"><![CDATA[As the morning broke, they called out, one to another,-]]></Verse>
+	<Verse VerseID="22"><![CDATA["Go ye to your tilth (betimes) in the morning, if ye would gather the fruits."]]></Verse>
+	<Verse VerseID="23"><![CDATA[So they departed, conversing in secret low tones, (saying)-]]></Verse>
+	<Verse VerseID="24"><![CDATA["Let not a single indigent person break in upon you into the (garden) this day."]]></Verse>
+	<Verse VerseID="25"><![CDATA[And they opened the morning, strong in an (unjust) resolve.]]></Verse>
+	<Verse VerseID="26"><![CDATA[But when they saw the (garden), they said: "We have surely lost our way:]]></Verse>
+	<Verse VerseID="27"><![CDATA["Indeed we are shut out (of the fruits of our labour)!"]]></Verse>
+	<Verse VerseID="28"><![CDATA[Said one of them, more just (than the rest): "Did I not say to you, ´Why not glorify (Allah)?´"]]></Verse>
+	<Verse VerseID="29"><![CDATA[They said: "Glory to our Lord! Verily we have been doing wrong!"]]></Verse>
+	<Verse VerseID="30"><![CDATA[Then they turned, one against another, in reproach.]]></Verse>
+	<Verse VerseID="31"><![CDATA[They said: "Alas for us! We have indeed transgressed!]]></Verse>
+	<Verse VerseID="32"><![CDATA["It may be that our Lord will give us in exchange a better (garden) than this: for we do turn to Him (in repentance)!"]]></Verse>
+	<Verse VerseID="33"><![CDATA[Such is the Punishment (in this life); but greater is the Punishment in the Hereafter,- if only they knew!]]></Verse>
+	<Verse VerseID="34"><![CDATA[Verily, for the Righteous, are Gardens of Delight, in the Presence of their Lord.]]></Verse>
+	<Verse VerseID="35"><![CDATA[Shall We then treat the People of Faith like the People of Sin?]]></Verse>
+	<Verse VerseID="36"><![CDATA[What is the matter with you? How judge ye?]]></Verse>
+	<Verse VerseID="37"><![CDATA[Or have ye a book through which ye learn-]]></Verse>
+	<Verse VerseID="38"><![CDATA[That ye shall have, through it whatever ye choose?]]></Verse>
+	<Verse VerseID="39"><![CDATA[Or have ye Covenants with Us to oath, reaching to the Day of Judgment, (providing) that ye shall have whatever ye shall demand?]]></Verse>
+	<Verse VerseID="40"><![CDATA[Ask thou of them, which of them will stand surety for that!]]></Verse>
+	<Verse VerseID="41"><![CDATA[Or have they some "Partners" (in Allahhead)? Then let them produce their "partners", if they are truthful!]]></Verse>
+	<Verse VerseID="42"><![CDATA[The Day that the shin shall be laid bare, and they shall be summoned to bow in adoration, but they shall not be able,-]]></Verse>
+	<Verse VerseID="43"><![CDATA[Their eyes will be cast down,- ignominy will cover them; seeing that they had been summoned aforetime to bow in adoration, while they were whole, (and had refused).]]></Verse>
+	<Verse VerseID="44"><![CDATA[Then leave Me alone with such as reject this Message: by degrees shall We punish them from directions they perceive not.]]></Verse>
+	<Verse VerseID="45"><![CDATA[A (long) respite will I grant them: truly powerful is My Plan.]]></Verse>
+	<Verse VerseID="46"><![CDATA[Or is it that thou dost ask them for a reward, so that they are burdened with a load of debt?-]]></Verse>
+	<Verse VerseID="47"><![CDATA[Or that the Unseen is in their hands, so that they can write it down?]]></Verse>
+	<Verse VerseID="48"><![CDATA[So wait with patience for the Command of thy Lord, and be not like the Companion of the Fish,- when he cried out in agony.]]></Verse>
+	<Verse VerseID="49"><![CDATA[Had not Grace from his Lord reached him, he would indeed have been cast off on the naked shore, in disgrace.]]></Verse>
+	<Verse VerseID="50"><![CDATA[Thus did his Lord choose him and make him of the Company of the Righteous.]]></Verse>
+	<Verse VerseID="51"><![CDATA[And the Unbelievers would almost trip thee up with their eyes when they hear the Message; and they say: "Surely he is possessed!"]]></Verse>
+	<Verse VerseID="52"><![CDATA[But it is nothing less than a Message to all the worlds.]]></Verse>
+</Chapter>

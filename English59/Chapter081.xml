@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="81" ChapterName="The Covering Up">
+	<Verse VerseID="1"><![CDATA[When the sun (with its spacious light) is folded up;]]></Verse>
+	<Verse VerseID="2"><![CDATA[When the stars fall, losing their lustre;]]></Verse>
+	<Verse VerseID="3"><![CDATA[When the mountains vanish (like a mirage);]]></Verse>
+	<Verse VerseID="4"><![CDATA[When the she-camels, ten months with young, are left untended;]]></Verse>
+	<Verse VerseID="5"><![CDATA[When the wild beasts are herded together (in the human habitations);]]></Verse>
+	<Verse VerseID="6"><![CDATA[When the oceans boil over with a swell;]]></Verse>
+	<Verse VerseID="7"><![CDATA[When the souls are sorted out, (being joined, like with like);]]></Verse>
+	<Verse VerseID="8"><![CDATA[When the female (infant), buried alive, is questioned -]]></Verse>
+	<Verse VerseID="9"><![CDATA[For what crime she was killed;]]></Verse>
+	<Verse VerseID="10"><![CDATA[When the scrolls are laid open;]]></Verse>
+	<Verse VerseID="11"><![CDATA[When the world on High is unveiled;]]></Verse>
+	<Verse VerseID="12"><![CDATA[When the Blazing Fire is kindled to fierce heat;]]></Verse>
+	<Verse VerseID="13"><![CDATA[And when the Garden is brought near;-]]></Verse>
+	<Verse VerseID="14"><![CDATA[(Then) shall each soul know what it has put forward.]]></Verse>
+	<Verse VerseID="15"><![CDATA[So verily I call to witness the planets - that recede,]]></Verse>
+	<Verse VerseID="16"><![CDATA[Go straight, or hide;]]></Verse>
+	<Verse VerseID="17"><![CDATA[And the Night as it dissipates;]]></Verse>
+	<Verse VerseID="18"><![CDATA[And the Dawn as it breathes away the darkness;-]]></Verse>
+	<Verse VerseID="19"><![CDATA[Verily this is the word of a most honourable Messenger,]]></Verse>
+	<Verse VerseID="20"><![CDATA[Endued with Power, with rank before the Lord of the Throne,]]></Verse>
+	<Verse VerseID="21"><![CDATA[With authority there, (and) faithful to his trust.]]></Verse>
+	<Verse VerseID="22"><![CDATA[And (O people!) your companion is not one possessed;]]></Verse>
+	<Verse VerseID="23"><![CDATA[And without doubt he saw him in the clear horizon.]]></Verse>
+	<Verse VerseID="24"><![CDATA[Neither doth he withhold grudgingly a knowledge of the Unseen.]]></Verse>
+	<Verse VerseID="25"><![CDATA[Nor is it the word of an evil spirit accursed.]]></Verse>
+	<Verse VerseID="26"><![CDATA[When whither go ye?]]></Verse>
+	<Verse VerseID="27"><![CDATA[Verily this is no less than a Message to (all) the Worlds:]]></Verse>
+	<Verse VerseID="28"><![CDATA[(With profit) to whoever among you wills to go straight:]]></Verse>
+	<Verse VerseID="29"><![CDATA[But ye shall not will except as Allah wills,- the Cherisher of the Worlds.]]></Verse>
+</Chapter>

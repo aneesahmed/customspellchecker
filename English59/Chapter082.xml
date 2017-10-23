@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="82" ChapterName="The Cleaving Asund">
+	<Verse VerseID="1"><![CDATA[When the Sky is cleft asunder;]]></Verse>
+	<Verse VerseID="2"><![CDATA[When the Stars are scattered;]]></Verse>
+	<Verse VerseID="3"><![CDATA[When the Oceans are suffered to burst forth;]]></Verse>
+	<Verse VerseID="4"><![CDATA[And when the Graves are turned upside down;-]]></Verse>
+	<Verse VerseID="5"><![CDATA[(Then) shall each soul know what it hath sent forward and (what it hath) kept back.]]></Verse>
+	<Verse VerseID="6"><![CDATA[O man! What has seduced thee from thy Lord Most Beneficent?-]]></Verse>
+	<Verse VerseID="7"><![CDATA[Him Who created thee. Fashioned thee in due proportion, and gave thee a just bias;]]></Verse>
+	<Verse VerseID="8"><![CDATA[In whatever Form He wills, does He put thee together.]]></Verse>
+	<Verse VerseID="9"><![CDATA[Nay! But ye do reject Right and Judgment!]]></Verse>
+	<Verse VerseID="10"><![CDATA[But verily over you (are appointed angels) to protect you,-]]></Verse>
+	<Verse VerseID="11"><![CDATA[Kind and honourable,- Writing down (your deeds):]]></Verse>
+	<Verse VerseID="12"><![CDATA[They know (and understand) all that ye do.]]></Verse>
+	<Verse VerseID="13"><![CDATA[As for the Righteous, they will be in bliss;]]></Verse>
+	<Verse VerseID="14"><![CDATA[And the Wicked - they will be in the Fire,]]></Verse>
+	<Verse VerseID="15"><![CDATA[Which they will enter on the Day of Judgment,]]></Verse>
+	<Verse VerseID="16"><![CDATA[And they will not be able to keep away therefrom.]]></Verse>
+	<Verse VerseID="17"><![CDATA[And what will explain to thee what the Day of Judgment is?]]></Verse>
+	<Verse VerseID="18"><![CDATA[Again, what will explain to thee what the Day of Judgment is?]]></Verse>
+	<Verse VerseID="19"><![CDATA[(It will be) the Day when no soul shall have power (to do) aught for another: For the command, that Day, will be (wholly) with Allah.]]></Verse>
+</Chapter>

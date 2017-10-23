@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="106" ChapterName="The Qureaish">
+	<Verse VerseID="1"><![CDATA[For the covenants (of security and safeguard enjoyed) by the Quraish,]]></Verse>
+	<Verse VerseID="2"><![CDATA[Their covenants (covering) journeys by winter and summer,-]]></Verse>
+	<Verse VerseID="3"><![CDATA[Let them adore the Lord of this House,]]></Verse>
+	<Verse VerseID="4"><![CDATA[Who provides them with food against hunger, and with security against fear (of danger).]]></Verse>
+</Chapter>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="77" ChapterName="The Emissaries">
+	<Verse VerseID="1"><![CDATA[By the (Winds) sent forth one after another (to man´s profit);]]></Verse>
+	<Verse VerseID="2"><![CDATA[Which then blow violently in tempestuous Gusts,]]></Verse>
+	<Verse VerseID="3"><![CDATA[And scatter (things) far and wide;]]></Verse>
+	<Verse VerseID="4"><![CDATA[Then separate them, one from another,]]></Verse>
+	<Verse VerseID="5"><![CDATA[Then spread abroad a Message,]]></Verse>
+	<Verse VerseID="6"><![CDATA[Whether of Justification or of Warning;-]]></Verse>
+	<Verse VerseID="7"><![CDATA[Assuredly, what ye are promised must come to pass.]]></Verse>
+	<Verse VerseID="8"><![CDATA[Then when the stars become dim;]]></Verse>
+	<Verse VerseID="9"><![CDATA[When the heaven is cleft asunder;]]></Verse>
+	<Verse VerseID="10"><![CDATA[When the mountains are scattered (to the winds) as dust;]]></Verse>
+	<Verse VerseID="11"><![CDATA[And when the messengers are (all) appointed a time (to collect);-]]></Verse>
+	<Verse VerseID="12"><![CDATA[For what Day are these (portents) deferred?]]></Verse>
+	<Verse VerseID="13"><![CDATA[For the Day of Sorting out.]]></Verse>
+	<Verse VerseID="14"><![CDATA[And what will explain to thee what is the Day of Sorting out?]]></Verse>
+	<Verse VerseID="15"><![CDATA[Ah woe, that Day, to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="16"><![CDATA[Did We not destroy the men of old (for their evil)?]]></Verse>
+	<Verse VerseID="17"><![CDATA[So shall We make later (generations) follow them.]]></Verse>
+	<Verse VerseID="18"><![CDATA[Thus do We deal with men of sin.]]></Verse>
+	<Verse VerseID="19"><![CDATA[Ah woe, that Day, to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="20"><![CDATA[Have We not created you from a fluid (held) despicable?-]]></Verse>
+	<Verse VerseID="21"><![CDATA[The which We placed in a place of rest, firmly fixed,]]></Verse>
+	<Verse VerseID="22"><![CDATA[For a period (of gestation), determined (according to need)?]]></Verse>
+	<Verse VerseID="23"><![CDATA[For We do determine (according to need); for We are the best to determine (things).]]></Verse>
+	<Verse VerseID="24"><![CDATA[Ah woe, that Day! to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="25"><![CDATA[Have We not made the earth (as a place) to draw together.]]></Verse>
+	<Verse VerseID="26"><![CDATA[The living and the dead,]]></Verse>
+	<Verse VerseID="27"><![CDATA[And made therein mountains standing firm, lofty (in stature); and provided for you water sweet (and wholesome)?]]></Verse>
+	<Verse VerseID="28"><![CDATA[Ah woe, that Day, to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="29"><![CDATA[(It will be said:) "Depart ye to that which ye used to reject as false!]]></Verse>
+	<Verse VerseID="30"><![CDATA["Depart ye to a Shadow (of smoke ascending) in three columns,]]></Verse>
+	<Verse VerseID="31"><![CDATA["(Which yields) no shade of coolness, and is of no use against the fierce Blaze.]]></Verse>
+	<Verse VerseID="32"><![CDATA["Indeed it throws about sparks (huge) as Forts,]]></Verse>
+	<Verse VerseID="33"><![CDATA["As if there were (a string of) yellow camels (marching swiftly)."]]></Verse>
+	<Verse VerseID="34"><![CDATA[Ah woe, that Day, to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="35"><![CDATA[That will be a Day when they shall not be able to speak.]]></Verse>
+	<Verse VerseID="36"><![CDATA[Nor will it be open to them to put forth pleas.]]></Verse>
+	<Verse VerseID="37"><![CDATA[Ah woe, that Day, to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="38"><![CDATA[That will be a Day of Sorting out! We shall gather you together and those before (you)!]]></Verse>
+	<Verse VerseID="39"><![CDATA[Now, if ye have a trick (or plot), use it against Me!]]></Verse>
+	<Verse VerseID="40"><![CDATA[Ah woe, that Day, to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="41"><![CDATA[As to the Righteous, they shall be amidst (cool) shades and springs (of water).]]></Verse>
+	<Verse VerseID="42"><![CDATA[And (they shall have) fruits,- all they desire.]]></Verse>
+	<Verse VerseID="43"><![CDATA["Eat ye and drink ye to your heart´s content: for that ye worked (Righteousness).]]></Verse>
+	<Verse VerseID="44"><![CDATA[Thus do We certainly reward the Doers of Good.]]></Verse>
+	<Verse VerseID="45"><![CDATA[Ah woe, that Day, to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="46"><![CDATA[(O ye unjust!) Eat ye and enjoy yourselves (but) a little while, for that ye are Sinners.]]></Verse>
+	<Verse VerseID="47"><![CDATA[Ah woe, that Day, to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="48"><![CDATA[And when it is said to them, "Prostrate yourselves!" they do not so.]]></Verse>
+	<Verse VerseID="49"><![CDATA[Ah woe, that Day, to the Rejecters of Truth!]]></Verse>
+	<Verse VerseID="50"><![CDATA[Then what Message, after that, will they believe in?]]></Verse>
+</Chapter>

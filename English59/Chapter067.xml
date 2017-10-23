@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="67" ChapterName="The Kingdom">
+	<Verse VerseID="1"><![CDATA[Blessed be He in Whose hands is Dominion; and He over all things hath Power;-]]></Verse>
+	<Verse VerseID="2"><![CDATA[He Who created Death and Life, that He may try which of you is best in deed: and He is the Exalted in Might, Oft-Forgiving;-]]></Verse>
+	<Verse VerseID="3"><![CDATA[He Who created the seven heavens one above another: No want of proportion wilt thou see in the Creation of (Allah) Most Gracious. So turn thy vision again: seest thou any flaw?]]></Verse>
+	<Verse VerseID="4"><![CDATA[Again turn thy vision a second time: (thy) vision will come back to thee dull and discomfited, in a state worn out.]]></Verse>
+	<Verse VerseID="5"><![CDATA[And we have, (from of old), adorned the lowest heaven with Lamps, and We have made such (Lamps) (as) missiles to drive away the Evil Ones, and have prepared for them the Penalty of the Blazing Fire.]]></Verse>
+	<Verse VerseID="6"><![CDATA[For those who reject their Lord (and Cherisher) is the Penalty of Hell: and evil is (such), Destination.]]></Verse>
+	<Verse VerseID="7"><![CDATA[When they are cast therein, they will hear the (terrible) drawing in of its breath even as it blazes forth,]]></Verse>
+	<Verse VerseID="8"><![CDATA[Almost bursting with fury: Every time a Group is cast therein, its Keepers will ask, "Did no Warner come to you?"]]></Verse>
+	<Verse VerseID="9"><![CDATA[They will say: "Yes indeed; a Warner did come to us, but we rejected him and said, ´Allah never sent down any (Message): ye are nothing but an egregious delusion!´"]]></Verse>
+	<Verse VerseID="10"><![CDATA[They will further say: "Had we but listened or used our intelligence, we should not (now) be among the Companions of the Blazing Fire!"]]></Verse>
+	<Verse VerseID="11"><![CDATA[They will then confess their sins: but far will be (Forgiveness) from the Companions of the Blazing Fire!]]></Verse>
+	<Verse VerseID="12"><![CDATA[As for those who fear their Lord unseen, for them is Forgiveness and a great Reward.]]></Verse>
+	<Verse VerseID="13"><![CDATA[And whether ye hide your word or publish it, He certainly has (full) knowledge, of the secrets of (all) hearts.]]></Verse>
+	<Verse VerseID="14"><![CDATA[Should He not know,- He that created? and He is the One that understands the finest mysteries (and) is well-acquainted (with them).]]></Verse>
+	<Verse VerseID="15"><![CDATA[It is He Who has made the earth manageable for you, so traverse ye through its tracts and enjoy of the Sustenance which He furnishes: but unto Him is the Resurrection.]]></Verse>
+	<Verse VerseID="16"><![CDATA[Do ye feel secure that He Who is in heaven will not cause you to be swallowed up by the earth when it shakes (as in an earthquake)?]]></Verse>
+	<Verse VerseID="17"><![CDATA[Or do ye feel secure that He Who is in Heaven will not send against you a violent tornado (with showers of stones), so that ye shall know how (terrible) was My warning?]]></Verse>
+	<Verse VerseID="18"><![CDATA[But indeed men before them rejected (My warning): then how (terrible) was My rejection (of them)?]]></Verse>
+	<Verse VerseID="19"><![CDATA[Do they not observe the birds above them, spreading their wings and folding them in? None can uphold them except (Allah) Most Gracious: Truly (Allah) Most Gracious: Truly it is He that watches over all things.]]></Verse>
+	<Verse VerseID="20"><![CDATA[Nay, who is there that can help you, (even as) an army, besides (Allah) Most Merciful? In nothing but delusion are the Unbelievers.]]></Verse>
+	<Verse VerseID="21"><![CDATA[Or who is there that can provide you with Sustenance if He were to withhold His provision? Nay, they obstinately persist in insolent impiety and flight (from the Truth).]]></Verse>
+	<Verse VerseID="22"><![CDATA[Is then one who walks headlong, with his face grovelling, better guided,- or one who walks evenly on a Straight Way?]]></Verse>
+	<Verse VerseID="23"><![CDATA[Say: "It is He Who has created you (and made you grow), and made for you the faculties of hearing, seeing, feeling and understanding: little thanks it is ye give.]]></Verse>
+	<Verse VerseID="24"><![CDATA[Say: "It is He Who has multiplied you through the earth, and to Him shall ye be gathered together."]]></Verse>
+	<Verse VerseID="25"><![CDATA[They ask: When will this promise be (fulfilled)? - If ye are telling the truth.]]></Verse>
+	<Verse VerseID="26"><![CDATA[Say: "As to the knowledge of the time, it is with Allah alone: I am (sent) only to warn plainly in public."]]></Verse>
+	<Verse VerseID="27"><![CDATA[At length, when they see it close at hand, grieved will be the faces of the Unbelievers, and it will be said (to them): "This is (the promise fulfilled), which ye were calling for!"]]></Verse>
+	<Verse VerseID="28"><![CDATA[Say: "See ye?- If Allah were to destroy me, and those with me, or if He bestows His Mercy on us,- yet who can deliver the Unbelievers from a grievous Penalty?"]]></Verse>
+	<Verse VerseID="29"><![CDATA[Say: "He is (Allah) Most Gracious: We have believed in Him, and on Him have we put our trust: So, soon will ye know which (of us) it is that is in manifest error."]]></Verse>
+	<Verse VerseID="30"><![CDATA[Say: "See ye?- If your stream be some morning lost (in the underground earth), who then can supply you with clear-flowing water?"]]></Verse>
+</Chapter>

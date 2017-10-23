@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="97" ChapterName="The Majesty">
+	<Verse VerseID="1"><![CDATA[We have indeed revealed this (Message) in the Night of Power:]]></Verse>
+	<Verse VerseID="2"><![CDATA[And what will explain to thee what the night of power is?]]></Verse>
+	<Verse VerseID="3"><![CDATA[The Night of Power is better than a thousand months.]]></Verse>
+	<Verse VerseID="4"><![CDATA[Therein come down the angels and the Spirit by Allah´s permission, on every errand:]]></Verse>
+	<Verse VerseID="5"><![CDATA[Peace!...This until the rise of morn!]]></Verse>
+</Chapter>

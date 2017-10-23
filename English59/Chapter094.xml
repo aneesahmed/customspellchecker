@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="94" ChapterName="The Expansion">
+	<Verse VerseID="1"><![CDATA[Have We not expanded thee thy breast?-]]></Verse>
+	<Verse VerseID="2"><![CDATA[And removed from thee thy burden]]></Verse>
+	<Verse VerseID="3"><![CDATA[The which did gall thy back?-]]></Verse>
+	<Verse VerseID="4"><![CDATA[And raised high the esteem (in which) thou (art held)?]]></Verse>
+	<Verse VerseID="5"><![CDATA[So, verily, with every difficulty, there is relief:]]></Verse>
+	<Verse VerseID="6"><![CDATA[Verily, with every difficulty there is relief.]]></Verse>
+	<Verse VerseID="7"><![CDATA[Therefore, when thou art free (from thine immediate task), still labour hard,]]></Verse>
+	<Verse VerseID="8"><![CDATA[And to thy Lord turn (all) thy attention.]]></Verse>
+</Chapter>

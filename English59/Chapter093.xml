@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="93" ChapterName="The Early Hours">
+	<Verse VerseID="1"><![CDATA[By the Glorious Morning Light,]]></Verse>
+	<Verse VerseID="2"><![CDATA[And by the Night when it is still,-]]></Verse>
+	<Verse VerseID="3"><![CDATA[Thy Guardian-Lord hath not forsaken thee, nor is He displeased.]]></Verse>
+	<Verse VerseID="4"><![CDATA[And verily the Hereafter will be better for thee than the present.]]></Verse>
+	<Verse VerseID="5"><![CDATA[And soon will thy Guardian-Lord give thee (that wherewith) thou shalt be well-pleased.]]></Verse>
+	<Verse VerseID="6"><![CDATA[Did He not find thee an orphan and give thee shelter (and care)?]]></Verse>
+	<Verse VerseID="7"><![CDATA[And He found thee wandering, and He gave thee guidance.]]></Verse>
+	<Verse VerseID="8"><![CDATA[And He found thee in need, and made thee independent.]]></Verse>
+	<Verse VerseID="9"><![CDATA[Therefore, treat not the orphan with harshness,]]></Verse>
+	<Verse VerseID="10"><![CDATA[Nor repulse the petitioner (unheard);]]></Verse>
+	<Verse VerseID="11"><![CDATA[But the bounty of the Lord - rehearse and proclaim!]]></Verse>
+</Chapter>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="95" ChapterName="The Fig">
+	<Verse VerseID="1"><![CDATA[By the Fig and the Olive,]]></Verse>
+	<Verse VerseID="2"><![CDATA[And the Mount of Sinai,]]></Verse>
+	<Verse VerseID="3"><![CDATA[And this City of security,-]]></Verse>
+	<Verse VerseID="4"><![CDATA[We have indeed created man in the best of moulds,]]></Verse>
+	<Verse VerseID="5"><![CDATA[Then do We abase him (to be) the lowest of the low,-]]></Verse>
+	<Verse VerseID="6"><![CDATA[Except such as believe and do righteous deeds: For they shall have a reward unfailing.]]></Verse>
+	<Verse VerseID="7"><![CDATA[Then what can, after this, contradict thee, as to the judgment (to come)?]]></Verse>
+	<Verse VerseID="8"><![CDATA[Is not Allah the wisest of judges?]]></Verse>
+</Chapter>

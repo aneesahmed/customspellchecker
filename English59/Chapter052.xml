@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="52" ChapterName="The Mountain">
+	<Verse VerseID="1"><![CDATA[By the Mount (of Revelation);]]></Verse>
+	<Verse VerseID="2"><![CDATA[By a Decree inscribed]]></Verse>
+	<Verse VerseID="3"><![CDATA[In a Scroll unfolded;]]></Verse>
+	<Verse VerseID="4"><![CDATA[By the much-frequented Fane;]]></Verse>
+	<Verse VerseID="5"><![CDATA[By the Canopy Raised High;]]></Verse>
+	<Verse VerseID="6"><![CDATA[And by the Ocean filled with Swell;-]]></Verse>
+	<Verse VerseID="7"><![CDATA[Verily, the Doom of thy Lord will indeed come to pass;-]]></Verse>
+	<Verse VerseID="8"><![CDATA[There is none can avert it;-]]></Verse>
+	<Verse VerseID="9"><![CDATA[On the Day when the firmament will be in dreadful commotion.]]></Verse>
+	<Verse VerseID="10"><![CDATA[And the mountains will fly hither and thither.]]></Verse>
+	<Verse VerseID="11"><![CDATA[Then woe that Day to those that treat (Truth) as Falsehood;-]]></Verse>
+	<Verse VerseID="12"><![CDATA[That play (and paddle) in shallow trifles.]]></Verse>
+	<Verse VerseID="13"><![CDATA[That Day shall they be thrust down to the Fire of Hell, irresistibly.]]></Verse>
+	<Verse VerseID="14"><![CDATA["This:, it will be said, "Is the Fire,- which ye were wont to deny!]]></Verse>
+	<Verse VerseID="15"><![CDATA["Is this then a fake, or is it ye that do not see?]]></Verse>
+	<Verse VerseID="16"><![CDATA["Burn ye therein: the same is it to you whether ye bear it with patience, or not: Ye but receive the recompense of your (own) deeds."]]></Verse>
+	<Verse VerseID="17"><![CDATA[As to the Righteous, they will be in Gardens, and in Happiness,-]]></Verse>
+	<Verse VerseID="18"><![CDATA[Enjoying the (Bliss) which their Lord hath bestowed on them, and their Lord shall deliver them from the Penalty of the Fire.]]></Verse>
+	<Verse VerseID="19"><![CDATA[(To them will be said:) "Eat and drink ye, with profit and health, because of your (good) deeds."]]></Verse>
+	<Verse VerseID="20"><![CDATA[They will recline (with ease) on Thrones (of dignity) arranged in ranks; and We shall join them to Companions, with beautiful big and lustrous eyes.]]></Verse>
+	<Verse VerseID="21"><![CDATA[And those who believe and whose families follow them in Faith,- to them shall We join their families: Nor shall We deprive them (of the fruit) of aught of their works: (Yet) is each individual in pledge for his deeds.]]></Verse>
+	<Verse VerseID="22"><![CDATA[And We shall bestow on them, of fruit and meat, anything they shall desire.]]></Verse>
+	<Verse VerseID="23"><![CDATA[They shall there exchange, one with another, a (loving) cup free of frivolity, free of all taint of ill.]]></Verse>
+	<Verse VerseID="24"><![CDATA[Round about them will serve, (devoted) to them, young male servants (handsome) as Pearls well-guarded.]]></Verse>
+	<Verse VerseID="25"><![CDATA[They will advance to each other, engaging in mutual enquiry.]]></Verse>
+	<Verse VerseID="26"><![CDATA[They will say: "Aforetime, we were not without fear for the sake of our people.]]></Verse>
+	<Verse VerseID="27"><![CDATA["But Allah has been good to us, and has delivered us from the Penalty of the Scorching Wind.]]></Verse>
+	<Verse VerseID="28"><![CDATA["Truly, we did call unto Him from of old: truly it is He, the Beneficent, the Merciful!"]]></Verse>
+	<Verse VerseID="29"><![CDATA[Therefore proclaim thou the praises (of thy Lord): for by the Grace of thy Lord, thou art no (vulgar) soothsayer, nor art thou one possessed.]]></Verse>
+	<Verse VerseID="30"><![CDATA[Or do they say:- "A Poet! we await for him some calamity (hatched) by Time!"]]></Verse>
+	<Verse VerseID="31"><![CDATA[Say thou: "Await ye!- I too will wait along with you!"]]></Verse>
+	<Verse VerseID="32"><![CDATA[Is it that their faculties of understanding urge them to this, or are they but a people transgressing beyond bounds?]]></Verse>
+	<Verse VerseID="33"><![CDATA[Or do they say, "He fabricated the (Message)"? Nay, they have no faith!]]></Verse>
+	<Verse VerseID="34"><![CDATA[Let them then produce a recital like unto it,- If (it be) they speak the truth!]]></Verse>
+	<Verse VerseID="35"><![CDATA[Were they created of nothing, or were they themselves the creators?]]></Verse>
+	<Verse VerseID="36"><![CDATA[Or did they create the heavens and the earth? Nay, they have no firm belief.]]></Verse>
+	<Verse VerseID="37"><![CDATA[Or are the Treasures of thy Lord with them, or are they the managers (of affairs)?]]></Verse>
+	<Verse VerseID="38"><![CDATA[Or have they a ladder, by which they can (climb up to heaven and) listen (to its secrets)? Then let (such a) listener of theirs produce a manifest proof.]]></Verse>
+	<Verse VerseID="39"><![CDATA[Or has He only daughters and ye have sons?]]></Verse>
+	<Verse VerseID="40"><![CDATA[Or is it that thou dost ask for a reward, so that they are burdened with a load of debt?-]]></Verse>
+	<Verse VerseID="41"><![CDATA[Or that the Unseen in it their hands, and they write it down?]]></Verse>
+	<Verse VerseID="42"><![CDATA[Or do they intend a plot (against thee)? But those who defy Allah are themselves involved in a Plot!]]></Verse>
+	<Verse VerseID="43"><![CDATA[Or have they a god other than Allah? Exalted is Allah far above the things they associate with Him!]]></Verse>
+	<Verse VerseID="44"><![CDATA[Were they to see a piece of the sky falling (on them), they would (only) say: "Clouds gathered in heaps!"]]></Verse>
+	<Verse VerseID="45"><![CDATA[So leave them alone until they encounter that Day of theirs, wherein they shall (perforce) swoon (with terror),-]]></Verse>
+	<Verse VerseID="46"><![CDATA[The Day when their plotting will avail them nothing and no help shall be given them.]]></Verse>
+	<Verse VerseID="47"><![CDATA[And verily, for those who do wrong, there is another punishment besides this: But most of them understand not.]]></Verse>
+	<Verse VerseID="48"><![CDATA[Now await in patience the command of thy Lord: for verily thou art in Our eyes: and celebrate the praises of thy Lord the while thou standest forth,]]></Verse>
+	<Verse VerseID="49"><![CDATA[And for part of the night also praise thou Him,- and at the retreat of the stars!]]></Verse>
+</Chapter>

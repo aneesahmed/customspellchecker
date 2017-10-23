@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="54" ChapterName="The Moon">
+	<Verse VerseID="1"><![CDATA[The Hour (of Judgment) is nigh, and the moon is cleft asunder.]]></Verse>
+	<Verse VerseID="2"><![CDATA[But if they see a Sign, they turn away, and say, "This is (but) transient magic."]]></Verse>
+	<Verse VerseID="3"><![CDATA[They reject (the warning) and follow their (own) lusts but every matter has its appointed time.]]></Verse>
+	<Verse VerseID="4"><![CDATA[There have already come to them Recitals wherein there is (enough) to check (them),]]></Verse>
+	<Verse VerseID="5"><![CDATA[Mature wisdom;- but (the preaching of) Warners profits them not.]]></Verse>
+	<Verse VerseID="6"><![CDATA[Therefore, (O Prophet,) turn away from them. The Day that the Caller will call (them) to a terrible affair,]]></Verse>
+	<Verse VerseID="7"><![CDATA[They will come forth,- their eyes humbled - from (their) graves, (torpid) like locusts scattered abroad,]]></Verse>
+	<Verse VerseID="8"><![CDATA[Hastening, with eyes transfixed, towards the Caller!- "Hard is this Day!", the Unbelievers will say.]]></Verse>
+	<Verse VerseID="9"><![CDATA[Before them the People of Noah rejected (their messenger): they rejected Our servant, and said, "Here is one possessed!", and he was driven out.]]></Verse>
+	<Verse VerseID="10"><![CDATA[Then he called on his Lord: "I am one overcome: do Thou then help (me)!"]]></Verse>
+	<Verse VerseID="11"><![CDATA[So We opened the gates of heaven, with water pouring forth.]]></Verse>
+	<Verse VerseID="12"><![CDATA[And We caused the earth to gush forth with springs, so the waters met (and rose) to the extent decreed.]]></Verse>
+	<Verse VerseID="13"><![CDATA[But We bore him on an (Ark) made of broad planks and caulked with palm-fibre:]]></Verse>
+	<Verse VerseID="14"><![CDATA[She floats under our eyes (and care): a recompense to one who had been rejected (with scorn)!]]></Verse>
+	<Verse VerseID="15"><![CDATA[And We have left this as a Sign (for all time): then is there any that will receive admonition?]]></Verse>
+	<Verse VerseID="16"><![CDATA[But how (terrible) was My Penalty and My Warning?]]></Verse>
+	<Verse VerseID="17"><![CDATA[And We have indeed made the Qur´an easy to understand and remember: then is there any that will receive admonition?]]></Verse>
+	<Verse VerseID="18"><![CDATA[The ´Ad (people) (too) rejected (Truth): then how terrible was My Penalty and My Warning?]]></Verse>
+	<Verse VerseID="19"><![CDATA[For We sent against them a furious wind, on a Day of violent Disaster,]]></Verse>
+	<Verse VerseID="20"><![CDATA[Plucking out men as if they were roots of palm-trees torn up (from the ground).]]></Verse>
+	<Verse VerseID="21"><![CDATA[Yea, how (terrible) was My Penalty and My Warning!]]></Verse>
+	<Verse VerseID="22"><![CDATA[But We have indeed made the Qur´an easy to understand and remember: then is there any that will receive admonition?]]></Verse>
+	<Verse VerseID="23"><![CDATA[The Thamud (also) rejected (their) Warners.]]></Verse>
+	<Verse VerseID="24"><![CDATA[For they said: "What! a man! a Solitary one from among ourselves! shall we follow such a one? Truly should we then be straying in mind, and mad!]]></Verse>
+	<Verse VerseID="25"><![CDATA["Is it that the Message is sent to him, of all people amongst us? Nay, he is a liar, an insolent one!"]]></Verse>
+	<Verse VerseID="26"><![CDATA[Ah! they will know on the morrow, which is the liar, the insolent one!]]></Verse>
+	<Verse VerseID="27"><![CDATA[For We will send the she-camel by way of trial for them. So watch them, (O Salih), and possess thyself in patience!]]></Verse>
+	<Verse VerseID="28"><![CDATA[And tell them that the water is to be divided between them: Each one´s right to drink being brought forward (by suitable turns).]]></Verse>
+	<Verse VerseID="29"><![CDATA[But they called to their companion, and he took a sword in hand, and hamstrung (her).]]></Verse>
+	<Verse VerseID="30"><![CDATA[Ah! how (terrible) was My Penalty and My Warning!]]></Verse>
+	<Verse VerseID="31"><![CDATA[For We sent against them a single Mighty Blast, and they became like the dry stubble used by one who pens cattle.]]></Verse>
+	<Verse VerseID="32"><![CDATA[And We have indeed made the Qur´an easy to understand and remember: then is there any that will receive admonition?]]></Verse>
+	<Verse VerseID="33"><![CDATA[The people of Lut rejected (his) warning.]]></Verse>
+	<Verse VerseID="34"><![CDATA[We sent against them a violent Tornado with showers of stones, (which destroyed them), except Lut´s household: them We delivered by early Dawn,-]]></Verse>
+	<Verse VerseID="35"><![CDATA[As a Grace from Us: thus do We reward those who give thanks.]]></Verse>
+	<Verse VerseID="36"><![CDATA[And (Lut) did warn them of Our Punishment, but they disputed about the Warning.]]></Verse>
+	<Verse VerseID="37"><![CDATA[And they even sought to snatch away his guests from him, but We blinded their eyes. (They heard:) "Now taste ye My Wrath and My Warning."]]></Verse>
+	<Verse VerseID="38"><![CDATA[Early on the morrow an abiding Punishment seized them:]]></Verse>
+	<Verse VerseID="39"><![CDATA["So taste ye My Wrath and My Warning."]]></Verse>
+	<Verse VerseID="40"><![CDATA[And We have indeed made the Qur´an easy to understand and remember: then is there any that will receive admonition?]]></Verse>
+	<Verse VerseID="41"><![CDATA[To the People of Pharaoh, too, aforetime, came Warners (from Allah).]]></Verse>
+	<Verse VerseID="42"><![CDATA[The (people) rejected all Our Signs; but We seized them with such Penalty (as comes) from One Exalted in Power, able to carry out His Will.]]></Verse>
+	<Verse VerseID="43"><![CDATA[Are your Unbelievers, (O Quraish), better than they? Or have ye an immunity in the Sacred Books?]]></Verse>
+	<Verse VerseID="44"><![CDATA[Or do they say: "We acting together can defend ourselves"?]]></Verse>
+	<Verse VerseID="45"><![CDATA[Soon will their multitude be put to flight, and they will show their backs.]]></Verse>
+	<Verse VerseID="46"><![CDATA[Nay, the Hour (of Judgment) is the time promised them (for their full recompense): And that Hour will be most grievous and most bitter.]]></Verse>
+	<Verse VerseID="47"><![CDATA[Truly those in sin are the ones straying in mind, and mad.]]></Verse>
+	<Verse VerseID="48"><![CDATA[The Day they will be dragged through the Fire on their faces, (they will hear:) "Taste ye the touch of Hell!"]]></Verse>
+	<Verse VerseID="49"><![CDATA[Verily, all things have We created in proportion and measure.]]></Verse>
+	<Verse VerseID="50"><![CDATA[And Our Command is but a single (Act),- like the twinkling of an eye.]]></Verse>
+	<Verse VerseID="51"><![CDATA[And (oft) in the past, have We destroyed gangs like unto you: then is there any that will receive admonition?]]></Verse>
+	<Verse VerseID="52"><![CDATA[All that they do is noted in (their) Books (of Deeds):]]></Verse>
+	<Verse VerseID="53"><![CDATA[Every matter, small and great, is on record.]]></Verse>
+	<Verse VerseID="54"><![CDATA[As to the Righteous, they will be in the midst of Gardens and Rivers,]]></Verse>
+	<Verse VerseID="55"><![CDATA[In an Assembly of Truth, in the Presence of a Sovereign Omnipotent.]]></Verse>
+</Chapter>

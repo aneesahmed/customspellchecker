@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="104" ChapterName="The Slanderer">
+	<Verse VerseID="1"><![CDATA[Woe to every (kind of) scandal-monger and-backbiter,]]></Verse>
+	<Verse VerseID="2"><![CDATA[Who pileth up wealth and layeth it by,]]></Verse>
+	<Verse VerseID="3"><![CDATA[Thinking that his wealth would make him last for ever!]]></Verse>
+	<Verse VerseID="4"><![CDATA[By no means! He will be sure to be thrown into That which Breaks to Pieces,]]></Verse>
+	<Verse VerseID="5"><![CDATA[And what will explain to thee That which Breaks to Pieces?]]></Verse>
+	<Verse VerseID="6"><![CDATA[(It is) the Fire of (the Wrath of) Allah kindled (to a blaze),]]></Verse>
+	<Verse VerseID="7"><![CDATA[The which doth mount (Right) to the Hearts:]]></Verse>
+	<Verse VerseID="8"><![CDATA[It shall be made into a vault over them,]]></Verse>
+	<Verse VerseID="9"><![CDATA[In columns outstretched.]]></Verse>
+</Chapter>

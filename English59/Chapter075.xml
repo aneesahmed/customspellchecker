@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="75" ChapterName="The Resurrection">
+	<Verse VerseID="1"><![CDATA[I do call to witness the Resurrection Day;]]></Verse>
+	<Verse VerseID="2"><![CDATA[And I do call to witness the self-reproaching spirit: (Eschew Evil).]]></Verse>
+	<Verse VerseID="3"><![CDATA[Does man think that We cannot assemble his bones?]]></Verse>
+	<Verse VerseID="4"><![CDATA[Nay, We are able to put together in perfect order the very tips of his fingers.]]></Verse>
+	<Verse VerseID="5"><![CDATA[But man wishes to do wrong (even) in the time in front of him.]]></Verse>
+	<Verse VerseID="6"><![CDATA[He questions: "When is the Day of Resurrection?"]]></Verse>
+	<Verse VerseID="7"><![CDATA[At length, when the sight is dazed,]]></Verse>
+	<Verse VerseID="8"><![CDATA[And the moon is buried in darkness.]]></Verse>
+	<Verse VerseID="9"><![CDATA[And the sun and moon are joined together,-]]></Verse>
+	<Verse VerseID="10"><![CDATA[That Day will Man say: "Where is the refuge?"]]></Verse>
+	<Verse VerseID="11"><![CDATA[By no means! No place of safety!]]></Verse>
+	<Verse VerseID="12"><![CDATA[Before thy Lord (alone), that Day will be the place of rest.]]></Verse>
+	<Verse VerseID="13"><![CDATA[That Day will Man be told (all) that he put forward, and all that he put back.]]></Verse>
+	<Verse VerseID="14"><![CDATA[Nay, man will be evidence against himself,]]></Verse>
+	<Verse VerseID="15"><![CDATA[Even though he were to put up his excuses.]]></Verse>
+	<Verse VerseID="16"><![CDATA[Move not thy tongue concerning the (Qur´an) to make haste therewith.]]></Verse>
+	<Verse VerseID="17"><![CDATA[It is for Us to collect it and to promulgate it:]]></Verse>
+	<Verse VerseID="18"><![CDATA[But when We have promulgated it, follow thou its recital (as promulgated):]]></Verse>
+	<Verse VerseID="19"><![CDATA[Nay more, it is for Us to explain it (and make it clear):]]></Verse>
+	<Verse VerseID="20"><![CDATA[Nay, (ye men!) but ye love the fleeting life,]]></Verse>
+	<Verse VerseID="21"><![CDATA[And leave alone the Hereafter.]]></Verse>
+	<Verse VerseID="22"><![CDATA[Some faces, that Day, will beam (in brightness and beauty);-]]></Verse>
+	<Verse VerseID="23"><![CDATA[Looking towards their Lord;]]></Verse>
+	<Verse VerseID="24"><![CDATA[And some faces, that Day, will be sad and dismal,]]></Verse>
+	<Verse VerseID="25"><![CDATA[In the thought that some back-breaking calamity was about to be inflicted on them;]]></Verse>
+	<Verse VerseID="26"><![CDATA[Yea, when (the soul) reaches to the collar-bone (in its exit),]]></Verse>
+	<Verse VerseID="27"><![CDATA[And there will be a cry, "Who is a magician (to restore him)?"]]></Verse>
+	<Verse VerseID="28"><![CDATA[And he will conclude that it was (the Time) of Parting;]]></Verse>
+	<Verse VerseID="29"><![CDATA[And one leg will be joined with another:]]></Verse>
+	<Verse VerseID="30"><![CDATA[That Day the Drive will be (all) to thy Lord!]]></Verse>
+	<Verse VerseID="31"><![CDATA[So he gave nothing in charity, nor did he pray!-]]></Verse>
+	<Verse VerseID="32"><![CDATA[But on the contrary, he rejected Truth and turned away!]]></Verse>
+	<Verse VerseID="33"><![CDATA[Then did he stalk to his family in full conceit!]]></Verse>
+	<Verse VerseID="34"><![CDATA[Woe to thee, (O men!), yea, woe!]]></Verse>
+	<Verse VerseID="35"><![CDATA[Again, Woe to thee, (O men!), yea, woe!]]></Verse>
+	<Verse VerseID="36"><![CDATA[Does man think that he will be left uncontrolled, (without purpose)?]]></Verse>
+	<Verse VerseID="37"><![CDATA[Was he not a drop of sperm emitted (in lowly form)?]]></Verse>
+	<Verse VerseID="38"><![CDATA[Then did he become a leech-like clot; then did (Allah) make and fashion (him) in due proportion.]]></Verse>
+	<Verse VerseID="39"><![CDATA[And of him He made two sexes, male and female.]]></Verse>
+	<Verse VerseID="40"><![CDATA[Has not He, (the same), the power to give life to the dead?]]></Verse>
+</Chapter>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="90" ChapterName="The City">
+	<Verse VerseID="1"><![CDATA[I do call to witness this City;-]]></Verse>
+	<Verse VerseID="2"><![CDATA[And thou art a freeman of this City;-]]></Verse>
+	<Verse VerseID="3"><![CDATA[And (the mystic ties of) parent and child;-]]></Verse>
+	<Verse VerseID="4"><![CDATA[Verily We have created man into toil and struggle.]]></Verse>
+	<Verse VerseID="5"><![CDATA[Thinketh he, that none hath power over him?]]></Verse>
+	<Verse VerseID="6"><![CDATA[He may say (boastfully); Wealth have I squandered in abundance!]]></Verse>
+	<Verse VerseID="7"><![CDATA[Thinketh he that none beholdeth him?]]></Verse>
+	<Verse VerseID="8"><![CDATA[Have We not made for him a pair of eyes?-]]></Verse>
+	<Verse VerseID="9"><![CDATA[And a tongue, and a pair of lips?-]]></Verse>
+	<Verse VerseID="10"><![CDATA[And shown him the two highways?]]></Verse>
+	<Verse VerseID="11"><![CDATA[But he hath made no haste on the path that is steep.]]></Verse>
+	<Verse VerseID="12"><![CDATA[And what will explain to thee the path that is steep?-]]></Verse>
+	<Verse VerseID="13"><![CDATA[(It is:) freeing the bondman;]]></Verse>
+	<Verse VerseID="14"><![CDATA[Or the giving of food in a day of privation]]></Verse>
+	<Verse VerseID="15"><![CDATA[To the orphan with claims of relationship,]]></Verse>
+	<Verse VerseID="16"><![CDATA[Or to the indigent (down) in the dust.]]></Verse>
+	<Verse VerseID="17"><![CDATA[Then will he be of those who believe, and enjoin patience, (constancy, and self-restraint), and enjoin deeds of kindness and compassion.]]></Verse>
+	<Verse VerseID="18"><![CDATA[Such are the Companions of the Right Hand.]]></Verse>
+	<Verse VerseID="19"><![CDATA[But those who reject Our Signs, they are the (unhappy) Companions of the Left Hand.]]></Verse>
+	<Verse VerseID="20"><![CDATA[On them will be Fire vaulted over (all round).]]></Verse>
+</Chapter>

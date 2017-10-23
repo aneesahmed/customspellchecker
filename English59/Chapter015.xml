@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="15" ChapterName="The Rock">
+	<Verse VerseID="1"><![CDATA[A. L. R. These are the Ayats of Revelation,- of a Qur´an that makes things clear.]]></Verse>
+	<Verse VerseID="2"><![CDATA[Again and again will those who disbelieve, wish that they had bowed (to Allah´s will) in Islam.]]></Verse>
+	<Verse VerseID="3"><![CDATA[Leave them alone, to enjoy (the good things of this life) and to please themselves: let (false) hope amuse them: soon will knowledge (undeceive them).]]></Verse>
+	<Verse VerseID="4"><![CDATA[Never did We destroy a population that had not a term decreed and assigned beforehand.]]></Verse>
+	<Verse VerseID="5"><![CDATA[Neither can a people anticipate its term, nor delay it.]]></Verse>
+	<Verse VerseID="6"><![CDATA[They say: "O thou to whom the Message is being revealed! truly thou art mad (or possessed)!]]></Verse>
+	<Verse VerseID="7"><![CDATA["Why bringest thou not angels to us if it be that thou hast the Truth?"]]></Verse>
+	<Verse VerseID="8"><![CDATA[We send not the angels down except for just cause: if they came (to the ungodly), behold! no respite would they have!]]></Verse>
+	<Verse VerseID="9"><![CDATA[We have, without doubt, sent down the Message; and We will assuredly guard it (from corruption).]]></Verse>
+	<Verse VerseID="10"><![CDATA[We did send messengers before thee amongst the religious sects of old:]]></Verse>
+	<Verse VerseID="11"><![CDATA[But never came a messenger to them but they mocked him.]]></Verse>
+	<Verse VerseID="12"><![CDATA[Even so do we let it creep into the hearts of the sinners -]]></Verse>
+	<Verse VerseID="13"><![CDATA[That they should not believe in the (Message); but the ways of the ancients have passed away.]]></Verse>
+	<Verse VerseID="14"><![CDATA[Even if We opened out to them a gate from heaven, and they were to continue (all day) ascending therein,]]></Verse>
+	<Verse VerseID="15"><![CDATA[They would only say: "Our eyes have been intoxicated: Nay, we have been bewitched by sorcery."]]></Verse>
+	<Verse VerseID="16"><![CDATA[It is We Who have set out the zodiacal signs in the heavens, and made them fair-seeming to (all) beholders;]]></Verse>
+	<Verse VerseID="17"><![CDATA[And (moreover) We have guarded them from every cursed devil:]]></Verse>
+	<Verse VerseID="18"><![CDATA[But any that gains a hearing by stealth, is pursued by a flaming fire, bright (to see).]]></Verse>
+	<Verse VerseID="19"><![CDATA[And the earth We have spread out (like a carpet); set thereon mountains firm and immovable; and produced therein all kinds of things in due balance.]]></Verse>
+	<Verse VerseID="20"><![CDATA[And We have provided therein means of subsistence,- for you and for those for whose sustenance ye are not responsible.]]></Verse>
+	<Verse VerseID="21"><![CDATA[And there is not a thing but its (sources and) treasures (inexhaustible) are with Us; but We only send down thereof in due and ascertainable measures.]]></Verse>
+	<Verse VerseID="22"><![CDATA[And We send the fecundating winds, then cause the rain to descend from the sky, therewith providing you with water (in abundance), though ye are not the guardians of its stores.]]></Verse>
+	<Verse VerseID="23"><![CDATA[And verily, it is We Who give life, and Who give death: it is We Who remain inheritors (after all else passes away).]]></Verse>
+	<Verse VerseID="24"><![CDATA[To Us are known those of you who hasten forward, and those who lag behind.]]></Verse>
+	<Verse VerseID="25"><![CDATA[Assuredly it is thy Lord Who will gather them together: for He is perfect in Wisdom and Knowledge.]]></Verse>
+	<Verse VerseID="26"><![CDATA[We created man from sounding clay, from mud moulded into shape;]]></Verse>
+	<Verse VerseID="27"><![CDATA[And the Jinn race, We had created before, from the fire of a scorching wind.]]></Verse>
+	<Verse VerseID="28"><![CDATA[Behold! thy Lord said to the angels: "I am about to create man, from sounding clay from mud moulded into shape;]]></Verse>
+	<Verse VerseID="29"><![CDATA["When I have fashioned him (in due proportion) and breathed into him of My spirit, fall ye down in obeisance unto him."]]></Verse>
+	<Verse VerseID="30"><![CDATA[So the angels prostrated themselves, all of them together:]]></Verse>
+	<Verse VerseID="31"><![CDATA[Not so Iblis: he refused to be among those who prostrated themselves.]]></Verse>
+	<Verse VerseID="32"><![CDATA[(Allah) said: "O Iblis! what is your reason for not being among those who prostrated themselves?"]]></Verse>
+	<Verse VerseID="33"><![CDATA[(Iblis) said: "I am not one to prostrate myself to man, whom Thou didst create from sounding clay, from mud moulded into shape."]]></Verse>
+	<Verse VerseID="34"><![CDATA[(Allah) said: "Then get thee out from here; for thou art rejected, accursed.]]></Verse>
+	<Verse VerseID="35"><![CDATA["And the curse shall be on thee till the day of Judgment."]]></Verse>
+	<Verse VerseID="36"><![CDATA[(Iblis) said: "O my Lord! give me then respite till the Day the (dead) are raised."]]></Verse>
+	<Verse VerseID="37"><![CDATA[(Allah) said: "Respite is granted thee]]></Verse>
+	<Verse VerseID="38"><![CDATA["Till the Day of the Time appointed."]]></Verse>
+	<Verse VerseID="39"><![CDATA[(Iblis) said: "O my Lord! because Thou hast put me in the wrong, I will make (wrong) fair-seeming to them on the earth, and I will put them all in the wrong,-]]></Verse>
+	<Verse VerseID="40"><![CDATA["Except Thy servants among them, sincere and purified (by Thy Grace)."]]></Verse>
+	<Verse VerseID="41"><![CDATA[(Allah) said: "This (way of My sincere servants) is indeed a way that leads straight to Me.]]></Verse>
+	<Verse VerseID="42"><![CDATA["For over My servants no authority shalt thou have, except such as put themselves in the wrong and follow thee."]]></Verse>
+	<Verse VerseID="43"><![CDATA[And verily, Hell is the promised abode for them all!]]></Verse>
+	<Verse VerseID="44"><![CDATA[To it are seven gates: for each of those gates is a (special) class (of sinners) assigned.]]></Verse>
+	<Verse VerseID="45"><![CDATA[The righteous (will be) amid gardens and fountains (of clear-flowing water).]]></Verse>
+	<Verse VerseID="46"><![CDATA[(Their greeting will be): "Enter ye here in peace and security."]]></Verse>
+	<Verse VerseID="47"><![CDATA[And We shall remove from their hearts any lurking sense of injury: (they will be) brothers (joyfully) facing each other on thrones (of dignity).]]></Verse>
+	<Verse VerseID="48"><![CDATA[There no sense of fatigue shall touch them, nor shall they (ever) be asked to leave.]]></Verse>
+	<Verse VerseID="49"><![CDATA[Tell My servants that I am indeed the Oft-forgiving, Most Merciful;]]></Verse>
+	<Verse VerseID="50"><![CDATA[And that My Penalty will be indeed the most grievous Penalty.]]></Verse>
+	<Verse VerseID="51"><![CDATA[Tell them about the guests of Abraham.]]></Verse>
+	<Verse VerseID="52"><![CDATA[When they entered his presence and said, "Peace!" He said, "We feel afraid of you!"]]></Verse>
+	<Verse VerseID="53"><![CDATA[They said: "Fear not! We give thee glad tidings of a son endowed with wisdom."]]></Verse>
+	<Verse VerseID="54"><![CDATA[He said: "Do ye give me glad tidings that old age has seized me? Of what, then, is your good news?"]]></Verse>
+	<Verse VerseID="55"><![CDATA[They said: "We give thee glad tidings in truth: be not then in despair!"]]></Verse>
+	<Verse VerseID="56"><![CDATA[He said: "And who despairs of the mercy of his Lord, but such as go astray?"]]></Verse>
+	<Verse VerseID="57"><![CDATA[Abraham said: "What then is the business on which ye (have come), O ye messengers (of Allah)?"]]></Verse>
+	<Verse VerseID="58"><![CDATA[They said: "We have been sent to a people (deep) in sin,]]></Verse>
+	<Verse VerseID="59"><![CDATA["Excepting the adherents of Lut: them we are certainly (charged) to save (from harm),- All -]]></Verse>
+	<Verse VerseID="60"><![CDATA["Except his wife, who, We have ascertained, will be among those who will lag behind."]]></Verse>
+	<Verse VerseID="61"><![CDATA[At length when the messengers arrived among the adherents of Lut,]]></Verse>
+	<Verse VerseID="62"><![CDATA[He said: "Ye appear to be uncommon folk."]]></Verse>
+	<Verse VerseID="63"><![CDATA[They said: "Yea, we have come to thee to accomplish that of which they doubt.]]></Verse>
+	<Verse VerseID="64"><![CDATA["We have brought to thee that which is inevitably due, and assuredly we tell the truth.]]></Verse>
+	<Verse VerseID="65"><![CDATA["Then travel by night with thy household, when a portion of the night (yet remains), and do thou bring up the rear: let no one amongst you look back, but pass on whither ye are ordered."]]></Verse>
+	<Verse VerseID="66"><![CDATA[And We made known this decree to him, that the last remnants of those (sinners) should be cut off by the morning.]]></Verse>
+	<Verse VerseID="67"><![CDATA[The inhabitants of the city came in (mad) joy (at news of the young men).]]></Verse>
+	<Verse VerseID="68"><![CDATA[Lut said: "These are my guests: disgrace me not:]]></Verse>
+	<Verse VerseID="69"><![CDATA["But fear Allah, and shame me not."]]></Verse>
+	<Verse VerseID="70"><![CDATA[They said: "Did we not forbid thee (to speak) for all and sundry?"]]></Verse>
+	<Verse VerseID="71"><![CDATA[He said: "There are my daughters (to marry), if ye must act (so)."]]></Verse>
+	<Verse VerseID="72"><![CDATA[Verily, by thy life (O Prophet), in their wild intoxication, they wander in distraction, to and fro.]]></Verse>
+	<Verse VerseID="73"><![CDATA[But the (mighty) Blast overtook them before morning,]]></Verse>
+	<Verse VerseID="74"><![CDATA[And We turned (the cities) upside down, and rained down on them brimstones hard as baked clay.]]></Verse>
+	<Verse VerseID="75"><![CDATA[Behold! in this are Signs for those who by tokens do understand.]]></Verse>
+	<Verse VerseID="76"><![CDATA[And the (cities were) right on the high-road.]]></Verse>
+	<Verse VerseID="77"><![CDATA[Behold! in this is a sign for those who believed.]]></Verse>
+	<Verse VerseID="78"><![CDATA[And the Companions of the Wood were also wrong-doers;]]></Verse>
+	<Verse VerseID="79"><![CDATA[So We exacted retribution from them. They were both on an open highway, plain to see.]]></Verse>
+	<Verse VerseID="80"><![CDATA[The Companions of the Rocky Tract also rejected the messengers:]]></Verse>
+	<Verse VerseID="81"><![CDATA[We sent them Our Signs, but they persisted in turning away from them.]]></Verse>
+	<Verse VerseID="82"><![CDATA[Out of the mountains did they hew (their) edifices, (feeling themselves) secure.]]></Verse>
+	<Verse VerseID="83"><![CDATA[But the (mighty) Blast seized them of a morning,]]></Verse>
+	<Verse VerseID="84"><![CDATA[And of no avail to them was all that they did (with such art and care)!]]></Verse>
+	<Verse VerseID="85"><![CDATA[We created not the heavens, the earth, and all between them, but for just ends. And the Hour is surely coming (when this will be manifest). So overlook (any human faults) with gracious forgiveness.]]></Verse>
+	<Verse VerseID="86"><![CDATA[For verily it is thy Lord who is the Master-Creator, knowing all things.]]></Verse>
+	<Verse VerseID="87"><![CDATA[And We have bestowed upon thee the Seven Oft-repeated (verses) and the Grand Qur´an.]]></Verse>
+	<Verse VerseID="88"><![CDATA[Strain not thine eyes. (Wistfully) at what We have bestowed on certain classes of them, nor grieve over them: but lower thy wing (in gentleness) to the believers.]]></Verse>
+	<Verse VerseID="89"><![CDATA[And say: "I am indeed he that warneth openly and without ambiguity,"-]]></Verse>
+	<Verse VerseID="90"><![CDATA[(Of just such wrath) as We sent down on those who divided (Scripture into arbitrary parts),-]]></Verse>
+	<Verse VerseID="91"><![CDATA[(So also on such) as have made Qur´an into shreds (as they please).]]></Verse>
+	<Verse VerseID="92"><![CDATA[Therefore, by the Lord, We will, of a surety, call them to account,]]></Verse>
+	<Verse VerseID="93"><![CDATA[For all their deeds.]]></Verse>
+	<Verse VerseID="94"><![CDATA[Therefore expound openly what thou art commanded, and turn away from those who join false gods with Allah.]]></Verse>
+	<Verse VerseID="95"><![CDATA[For sufficient are We unto thee against those who scoff,-]]></Verse>
+	<Verse VerseID="96"><![CDATA[Those who adopt, with Allah, another god: but soon will they come to know.]]></Verse>
+	<Verse VerseID="97"><![CDATA[We do indeed know how thy heart is distressed at what they say.]]></Verse>
+	<Verse VerseID="98"><![CDATA[But celebrate the praises of thy Lord, and be of those who prostrate themselves in adoration.]]></Verse>
+	<Verse VerseID="99"><![CDATA[And serve thy Lord until there come unto thee the Hour that is Certain.]]></Verse>
+</Chapter>

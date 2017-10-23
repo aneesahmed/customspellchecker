@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="84" ChapterName="The Bursting Asund">
+	<Verse VerseID="1"><![CDATA[When the sky is rent asunder,]]></Verse>
+	<Verse VerseID="2"><![CDATA[And hearkens to (the Command of) its Lord, and it must needs (do so);-]]></Verse>
+	<Verse VerseID="3"><![CDATA[And when the earth is flattened out,]]></Verse>
+	<Verse VerseID="4"><![CDATA[And casts forth what is within it and becomes (clean) empty,]]></Verse>
+	<Verse VerseID="5"><![CDATA[And hearkens to (the Command of) its Lord,- and it must needs (do so);- (then will come Home the full reality).]]></Verse>
+	<Verse VerseID="6"><![CDATA[O thou man! Verily thou art ever toiling on towards thy Lord- painfully toiling,- but thou shalt meet Him.]]></Verse>
+	<Verse VerseID="7"><![CDATA[Then he who is given his Record in his right hand,]]></Verse>
+	<Verse VerseID="8"><![CDATA[Soon will his account be taken by an easy reckoning,]]></Verse>
+	<Verse VerseID="9"><![CDATA[And he will turn to his people, rejoicing!]]></Verse>
+	<Verse VerseID="10"><![CDATA[But he who is given his Record behind his back,-]]></Verse>
+	<Verse VerseID="11"><![CDATA[Soon will he cry for perdition,]]></Verse>
+	<Verse VerseID="12"><![CDATA[And he will enter a Blazing Fire.]]></Verse>
+	<Verse VerseID="13"><![CDATA[Truly, did he go about among his people, rejoicing!]]></Verse>
+	<Verse VerseID="14"><![CDATA[Truly, did he think that he would not have to return (to Us)!]]></Verse>
+	<Verse VerseID="15"><![CDATA[Nay, nay! for his Lord was (ever) watchful of him!]]></Verse>
+	<Verse VerseID="16"><![CDATA[So I do call to witness the ruddy glow of Sunset;]]></Verse>
+	<Verse VerseID="17"><![CDATA[The Night and its Homing;]]></Verse>
+	<Verse VerseID="18"><![CDATA[And the Moon in her fullness:]]></Verse>
+	<Verse VerseID="19"><![CDATA[Ye shall surely travel from stage to stage.]]></Verse>
+	<Verse VerseID="20"><![CDATA[What then is the matter with them, that they believe not?-]]></Verse>
+	<Verse VerseID="21"><![CDATA[And when the Qur´an is read to them, they fall not prostrate,]]></Verse>
+	<Verse VerseID="22"><![CDATA[But on the contrary the Unbelievers reject (it).]]></Verse>
+	<Verse VerseID="23"><![CDATA[But Allah has full knowledge of what they secrete (in their breasts)]]></Verse>
+	<Verse VerseID="24"><![CDATA[So announce to them a Penalty Grievous,]]></Verse>
+	<Verse VerseID="25"><![CDATA[Except to those who believe and work righteous deeds: For them is a Reward that will never fail.]]></Verse>
+</Chapter>

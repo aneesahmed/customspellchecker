@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="100" ChapterName="The Assaulters">
+	<Verse VerseID="1"><![CDATA[By the (Steeds) that run, with panting (breath),]]></Verse>
+	<Verse VerseID="2"><![CDATA[And strike sparks of fire,]]></Verse>
+	<Verse VerseID="3"><![CDATA[And push home the charge in the morning,]]></Verse>
+	<Verse VerseID="4"><![CDATA[And raise the dust in clouds the while,]]></Verse>
+	<Verse VerseID="5"><![CDATA[And penetrate forthwith into the midst (of the foe) en masse;-]]></Verse>
+	<Verse VerseID="6"><![CDATA[Truly man is, to his Lord, ungrateful;]]></Verse>
+	<Verse VerseID="7"><![CDATA[And to that (fact) he bears witness (by his deeds);]]></Verse>
+	<Verse VerseID="8"><![CDATA[And violent is he in his love of wealth.]]></Verse>
+	<Verse VerseID="9"><![CDATA[Does he not know,- when that which is in the graves is scattered abroad]]></Verse>
+	<Verse VerseID="10"><![CDATA[And that which is (locked up) in (human) breasts is made manifest-]]></Verse>
+	<Verse VerseID="11"><![CDATA[That their Lord had been Well-acquainted with them, (even to) that Day?]]></Verse>
+</Chapter>

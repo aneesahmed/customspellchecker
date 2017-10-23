@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="69" ChapterName="The Sure Calamity">
+	<Verse VerseID="1"><![CDATA[The Sure Reality!]]></Verse>
+	<Verse VerseID="2"><![CDATA[What is the Sure Reality?]]></Verse>
+	<Verse VerseID="3"><![CDATA[And what will make thee realise what the Sure Reality is?]]></Verse>
+	<Verse VerseID="4"><![CDATA[The Thamud and the ´Ad People (branded) as false the Stunning Calamity!]]></Verse>
+	<Verse VerseID="5"><![CDATA[But the Thamud,- they were destroyed by a terrible Storm of thunder and lightning!]]></Verse>
+	<Verse VerseID="6"><![CDATA[And the ´Ad, they were destroyed by a furious Wind, exceedingly violent;]]></Verse>
+	<Verse VerseID="7"><![CDATA[He made it rage against them seven nights and eight days in succession: so that thou couldst see the (whole) people lying prostrate in its (path), as they had been roots of hollow palm-trees tumbled down!]]></Verse>
+	<Verse VerseID="8"><![CDATA[Then seest thou any of them left surviving?]]></Verse>
+	<Verse VerseID="9"><![CDATA[And Pharaoh, and those before him, and the Cities Overthrown, committed habitual Sin.]]></Verse>
+	<Verse VerseID="10"><![CDATA[And disobeyed (each) the messenger of their Lord; so He punished them with an abundant Penalty.]]></Verse>
+	<Verse VerseID="11"><![CDATA[We, when the water (of Noah´s Flood) overflowed beyond its limits, carried you (mankind), in the floating (Ark),]]></Verse>
+	<Verse VerseID="12"><![CDATA[That We might make it a Message unto you, and that ears (that should hear the tale and) retain its memory should bear its (lessons) in remembrance.]]></Verse>
+	<Verse VerseID="13"><![CDATA[Then, when one blast is sounded on the Trumpet,]]></Verse>
+	<Verse VerseID="14"><![CDATA[And the earth is moved, and its mountains, and they are crushed to powder at one stroke,-]]></Verse>
+	<Verse VerseID="15"><![CDATA[On that Day shall the (Great) Event come to pass.]]></Verse>
+	<Verse VerseID="16"><![CDATA[And the sky will be rent asunder, for it will that Day be flimsy,]]></Verse>
+	<Verse VerseID="17"><![CDATA[And the angels will be on its sides, and eight will, that Day, bear the Throne of thy Lord above them.]]></Verse>
+	<Verse VerseID="18"><![CDATA[That Day shall ye be brought to Judgment: not an act of yours that ye hide will be hidden.]]></Verse>
+	<Verse VerseID="19"><![CDATA[Then he that will be given his Record in his right hand will say: "Ah here! Read ye my Record!]]></Verse>
+	<Verse VerseID="20"><![CDATA["I did really understand that my Account would (One Day) reach me!"]]></Verse>
+	<Verse VerseID="21"><![CDATA[And he will be in a life of Bliss,]]></Verse>
+	<Verse VerseID="22"><![CDATA[In a Garden on high,]]></Verse>
+	<Verse VerseID="23"><![CDATA[The Fruits whereof (will hang in bunches) low and near.]]></Verse>
+	<Verse VerseID="24"><![CDATA["Eat ye and drink ye, with full satisfaction; because of the (good) that ye sent before you, in the days that are gone!"]]></Verse>
+	<Verse VerseID="25"><![CDATA[And he that will be given his Record in his left hand, will say: "Ah! Would that my Record had not been given to me!]]></Verse>
+	<Verse VerseID="26"><![CDATA["And that I had never realised how my account (stood)!]]></Verse>
+	<Verse VerseID="27"><![CDATA["Ah! Would that (Death) had made an end of me!]]></Verse>
+	<Verse VerseID="28"><![CDATA["Of no profit to me has been my wealth!]]></Verse>
+	<Verse VerseID="29"><![CDATA["My power has perished from me!"...]]></Verse>
+	<Verse VerseID="30"><![CDATA[(The stern command will say): "Seize ye him, and bind ye him,]]></Verse>
+	<Verse VerseID="31"><![CDATA["And burn ye him in the Blazing Fire.]]></Verse>
+	<Verse VerseID="32"><![CDATA["Further, make him march in a chain, whereof the length is seventy cubits!]]></Verse>
+	<Verse VerseID="33"><![CDATA["This was he that would not believe in Allah Most High.]]></Verse>
+	<Verse VerseID="34"><![CDATA["And would not encourage the feeding of the indigent!]]></Verse>
+	<Verse VerseID="35"><![CDATA["So no friend hath he here this Day.]]></Verse>
+	<Verse VerseID="36"><![CDATA["Nor hath he any food except the corruption from the washing of wounds,]]></Verse>
+	<Verse VerseID="37"><![CDATA["Which none do eat but those in sin."]]></Verse>
+	<Verse VerseID="38"><![CDATA[So I do call to witness what ye see,]]></Verse>
+	<Verse VerseID="39"><![CDATA[And what ye see not,]]></Verse>
+	<Verse VerseID="40"><![CDATA[That this is verily the word of an honoured messenger;]]></Verse>
+	<Verse VerseID="41"><![CDATA[It is not the word of a poet: little it is ye believe!]]></Verse>
+	<Verse VerseID="42"><![CDATA[Nor is it the word of a soothsayer: little admonition it is ye receive.]]></Verse>
+	<Verse VerseID="43"><![CDATA[(This is) a Message sent down from the Lord of the Worlds.]]></Verse>
+	<Verse VerseID="44"><![CDATA[And if the messenger were to invent any sayings in Our name,]]></Verse>
+	<Verse VerseID="45"><![CDATA[We should certainly seize him by his right hand,]]></Verse>
+	<Verse VerseID="46"><![CDATA[And We should certainly then cut off the artery of his heart:]]></Verse>
+	<Verse VerseID="47"><![CDATA[Nor could any of you withhold him (from Our wrath).]]></Verse>
+	<Verse VerseID="48"><![CDATA[But verily this is a Message for the Allah-fearing.]]></Verse>
+	<Verse VerseID="49"><![CDATA[And We certainly know that there are amongst you those that reject (it).]]></Verse>
+	<Verse VerseID="50"><![CDATA[But truly (Revelation) is a cause of sorrow for the Unbelievers.]]></Verse>
+	<Verse VerseID="51"><![CDATA[But verily it is Truth of assured certainty.]]></Verse>
+	<Verse VerseID="52"><![CDATA[So glorify the name of thy Lord Most High.]]></Verse>
+</Chapter>

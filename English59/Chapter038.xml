@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="38" ChapterName="Suad">
+	<Verse VerseID="1"><![CDATA[Sad: By the Qur´an, Full of Admonition: (This is the Truth).]]></Verse>
+	<Verse VerseID="2"><![CDATA[But the Unbelievers (are steeped) in self-glory and Separatism.]]></Verse>
+	<Verse VerseID="3"><![CDATA[How many generations before them did We destroy? In the end they cried (for mercy)- when there was no longer time for being saved!]]></Verse>
+	<Verse VerseID="4"><![CDATA[So they wonder that a Warner has come to them from among themselves! and the Unbelievers say, "This is a sorcerer telling lies!]]></Verse>
+	<Verse VerseID="5"><![CDATA["Has he made the gods (all) into one Allah? Truly this is a wonderful thing!"]]></Verse>
+	<Verse VerseID="6"><![CDATA[And the leader among them go away (impatiently), (saying), "Walk ye away, and remain constant to your gods! For this is truly a thing designed (against you)!]]></Verse>
+	<Verse VerseID="7"><![CDATA["We never heard (the like) of this among the people of these latter days: this is nothing but a made-up tale!"]]></Verse>
+	<Verse VerseID="8"><![CDATA["What! has the Message been sent to him - (Of all persons) among us?"...but they are in doubt concerning My (Own) Message! Nay, they have not yet tasted My Punishment!]]></Verse>
+	<Verse VerseID="9"><![CDATA[Or have they the treasures of the mercy of thy Lord,- the Exalted in Power, the Grantor of Bounties without measure?]]></Verse>
+	<Verse VerseID="10"><![CDATA[Or have they the dominion of the heavens and the earth and all between? If so, let them mount up with the ropes and means (to reach that end)!]]></Verse>
+	<Verse VerseID="11"><![CDATA[But there - will be put to flight even a host of confederates.]]></Verse>
+	<Verse VerseID="12"><![CDATA[Before them (were many who) rejected messengers,- the people of Noah, and ´Ad, and Pharaoh, the Lord of Stakes,]]></Verse>
+	<Verse VerseID="13"><![CDATA[And Thamud, and the people of Lut, and the Companions of the Wood; - such were the Confederates.]]></Verse>
+	<Verse VerseID="14"><![CDATA[Not one (of them) but rejected the messengers, but My punishment came justly and inevitably (on them).]]></Verse>
+	<Verse VerseID="15"><![CDATA[These (today) only wait for a single mighty Blast, which (when it comes) will brook no delay.]]></Verse>
+	<Verse VerseID="16"><![CDATA[They say: "Our Lord! hasten to us our sentence (even) before the Day of Account!"]]></Verse>
+	<Verse VerseID="17"><![CDATA[Have patience at what they say, and remember our servant David, the man of strength: for he ever turned (to Allah).]]></Verse>
+	<Verse VerseID="18"><![CDATA[It was We that made the hills declare, in unison with him, Our Praises, at eventide and at break of day,]]></Verse>
+	<Verse VerseID="19"><![CDATA[And the birds gathered (in assemblies): all with him did turn (to Allah).]]></Verse>
+	<Verse VerseID="20"><![CDATA[We strengthened his kingdom, and gave him wisdom and sound judgment in speech and decision.]]></Verse>
+	<Verse VerseID="21"><![CDATA[Has the Story of the Disputants reached thee? Behold, they climbed over the wall of the private chamber;]]></Verse>
+	<Verse VerseID="22"><![CDATA[When they entered the presence of David, and he was terrified of them, they said: "Fear not: we are two disputants, one of whom has wronged the other: Decide now between us with truth, and treat us not with injustice, but guide us to the even Path..]]></Verse>
+	<Verse VerseID="23"><![CDATA["This man is my brother: He has nine and ninety ewes, and I have (but) one: Yet he says, ´commit her to my care,´ and is (moreover) harsh to me in speech."]]></Verse>
+	<Verse VerseID="24"><![CDATA[(David) said: "He has undoubtedly wronged thee in demanding thy (single) ewe to be added to his (flock of) ewes: truly many are the partners (in business) who wrong each other: Not so do those who believe and work deeds of righteousness, and how few are they?"...and David gathered that We had tried him: he asked forgiveness of his Lord, fell down, bowing (in prostration), and turned (to Allah in repentance).]]></Verse>
+	<Verse VerseID="25"><![CDATA[So We forgave him this (lapse): he enjoyed, indeed, a Near Approach to Us, and a beautiful place of (Final) Return.]]></Verse>
+	<Verse VerseID="26"><![CDATA[O David! We did indeed make thee a vicegerent on earth: so judge thou between men in truth (and justice): Nor follow thou the lusts (of thy heart), for they will mislead thee from the Path of Allah: for those who wander astray from the Path of Allah, is a Penalty Grievous, for that they forget the Day of Account.]]></Verse>
+	<Verse VerseID="27"><![CDATA[Not without purpose did We create heaven and earth and all between! that were the thought of Unbelievers! but woe to the Unbelievers because of the Fire (of Hell)!]]></Verse>
+	<Verse VerseID="28"><![CDATA[Shall We treat those who believe and work deeds of righteousness, the same as those who do mischief on earth? Shall We treat those who guard against evil, the same as those who turn aside from the right?]]></Verse>
+	<Verse VerseID="29"><![CDATA[(Here is) a Book which We have sent down unto thee, full of blessings, that they may mediate on its Signs, and that men of understanding may receive admonition.]]></Verse>
+	<Verse VerseID="30"><![CDATA[To David We gave Solomon (for a son),- How excellent in Our service! Ever did he turn (to Us)!]]></Verse>
+	<Verse VerseID="31"><![CDATA[Behold, there were brought before him, at eventide coursers of the highest breeding, and swift of foot;]]></Verse>
+	<Verse VerseID="32"><![CDATA[And he said, "Truly do I love the love of good, with a view to the glory of my Lord,"- until (the sun) was hidden in the veil (of night):]]></Verse>
+	<Verse VerseID="33"><![CDATA["Bring them back to me." then began he to pass his hand over (their) legs and their necks.]]></Verse>
+	<Verse VerseID="34"><![CDATA[And We did try Solomon: We placed on his throne a body (without life); but he did turn (to Us in true devotion):]]></Verse>
+	<Verse VerseID="35"><![CDATA[He said, "O my Lord! Forgive me, and grant me a kingdom which, (it may be), suits not another after me: for Thou art the Grantor of Bounties (without measure).]]></Verse>
+	<Verse VerseID="36"><![CDATA[Then We subjected the wind to his power, to flow gently to his order, Whithersoever he willed,-]]></Verse>
+	<Verse VerseID="37"><![CDATA[As also the evil ones, (including) every kind of builder and diver,-]]></Verse>
+	<Verse VerseID="38"><![CDATA[As also others bound together in fetters.]]></Verse>
+	<Verse VerseID="39"><![CDATA["Such are Our Bounties: whether thou bestow them (on others) or withhold them, no account will be asked."]]></Verse>
+	<Verse VerseID="40"><![CDATA[And he enjoyed, indeed, a Near Approach to Us, and a beautiful Place of (Final) Return.]]></Verse>
+	<Verse VerseID="41"><![CDATA[Commemorate Our Servant Job. Behold he cried to his Lord: "The Evil One has afflicted me with distress and suffering!"]]></Verse>
+	<Verse VerseID="42"><![CDATA[(The command was given:) "Strike with thy foot: here is (water) wherein to wash, cool and refreshing, and (water) to drink."]]></Verse>
+	<Verse VerseID="43"><![CDATA[And We gave him (back) his people, and doubled their number,- as a Grace from Ourselves, and a thing for commemoration, for all who have Understanding.]]></Verse>
+	<Verse VerseID="44"><![CDATA["And take in thy hand a little grass, and strike therewith: and break not (thy oath)." Truly We found him full of patience and constancy. How excellent in Our service! ever did he turn (to Us)!]]></Verse>
+	<Verse VerseID="45"><![CDATA[And commemorate Our Servants Abraham, Isaac, and Jacob, possessors of Power and Vision.]]></Verse>
+	<Verse VerseID="46"><![CDATA[Verily We did choose them for a special (purpose)- proclaiming the Message of the Hereafter.]]></Verse>
+	<Verse VerseID="47"><![CDATA[They were, in Our sight, truly, of the company of the Elect and the Good.]]></Verse>
+	<Verse VerseID="48"><![CDATA[And commemorate Isma´il, Elisha, and Zul-Kifl: Each of them was of the Company of the Good.]]></Verse>
+	<Verse VerseID="49"><![CDATA[This is a Message (of admonition): and verily, for the righteous, is a beautiful Place of (Final) Return,-]]></Verse>
+	<Verse VerseID="50"><![CDATA[Gardens of Eternity, whose doors will (ever) be open to them;]]></Verse>
+	<Verse VerseID="51"><![CDATA[Therein will they recline (at ease): Therein can they call (at pleasure) for fruit in abundance, and (delicious) drink;]]></Verse>
+	<Verse VerseID="52"><![CDATA[And beside them will be chaste women restraining their glances, (companions) of equal age.]]></Verse>
+	<Verse VerseID="53"><![CDATA[Such is the Promise made, to you for the Day of Account!]]></Verse>
+	<Verse VerseID="54"><![CDATA[Truly such will be Our Bounty (to you); it will never fail;-]]></Verse>
+	<Verse VerseID="55"><![CDATA[Yea, such! but - for the wrong-doers will be an evil place of (Final) Return!-]]></Verse>
+	<Verse VerseID="56"><![CDATA[Hell!- they will burn therein, - an evil bed (indeed, to lie on)!-]]></Verse>
+	<Verse VerseID="57"><![CDATA[Yea, such! - then shall they taste it,- a boiling fluid, and a fluid dark, murky, intensely cold!-]]></Verse>
+	<Verse VerseID="58"><![CDATA[And other Penalties of a similar kind, to match them!]]></Verse>
+	<Verse VerseID="59"><![CDATA[Here is a troop rushing headlong with you! No welcome for them! truly, they shall burn in the Fire!]]></Verse>
+	<Verse VerseID="60"><![CDATA[(The followers shall cry to the misleaders:) "Nay, ye (too)! No welcome for you! It is ye who have brought this upon us! Now evil is (this) place to stay in!"]]></Verse>
+	<Verse VerseID="61"><![CDATA[They will say: "Our Lord! whoever brought this upon us,- Add to him a double Penalty in the Fire!"]]></Verse>
+	<Verse VerseID="62"><![CDATA[And they will say: "What has happened to us that we see not men whom we used to number among the bad ones?]]></Verse>
+	<Verse VerseID="63"><![CDATA["Did we treat them (as such) in ridicule, or have (our) eyes failed to perceive them?"]]></Verse>
+	<Verse VerseID="64"><![CDATA[Truly that is just and fitting,- the mutual recriminations of the People of the Fire!]]></Verse>
+	<Verse VerseID="65"><![CDATA[Say: "Truly am I a Warner: no god is there but the one Allah, Supreme and Irresistible,-]]></Verse>
+	<Verse VerseID="66"><![CDATA["The Lord of the heavens and the earth, and all between,- Exalted in Might, able to enforce His Will, forgiving again and again."]]></Verse>
+	<Verse VerseID="67"><![CDATA[Say: "That is a Message Supreme (above all),-]]></Verse>
+	<Verse VerseID="68"><![CDATA["From which ye do turn away!]]></Verse>
+	<Verse VerseID="69"><![CDATA["No knowledge have I of the Chiefs on high, when they discuss (matters) among themselves.]]></Verse>
+	<Verse VerseID="70"><![CDATA[´Only this has been revealed to me: that I am to give warning plainly and publicly."]]></Verse>
+	<Verse VerseID="71"><![CDATA[Behold, thy Lord said to the angels: "I am about to create man from clay:]]></Verse>
+	<Verse VerseID="72"><![CDATA["When I have fashioned him (in due proportion) and breathed into him of My spirit, fall ye down in obeisance unto him."]]></Verse>
+	<Verse VerseID="73"><![CDATA[So the angels prostrated themselves, all of them together:]]></Verse>
+	<Verse VerseID="74"><![CDATA[Not so Iblis: he was haughty, and became one of those who reject Faith.]]></Verse>
+	<Verse VerseID="75"><![CDATA[(Allah) said: "O Iblis! What prevents thee from prostrating thyself to one whom I have created with my hands? Art thou haughty? Or art thou one of the high (and mighty) ones?"]]></Verse>
+	<Verse VerseID="76"><![CDATA[(Iblis) said: "I am better than he: thou createdst me from fire, and him thou createdst from clay."]]></Verse>
+	<Verse VerseID="77"><![CDATA[(Allah) said: "Then get thee out from here: for thou art rejected, accursed.]]></Verse>
+	<Verse VerseID="78"><![CDATA["And My curse shall be on thee till the Day of Judgment."]]></Verse>
+	<Verse VerseID="79"><![CDATA[(Iblis) said: "O my Lord! Give me then respite till the Day the (dead) are raised."]]></Verse>
+	<Verse VerseID="80"><![CDATA[(Allah) said: "Respite then is granted thee-]]></Verse>
+	<Verse VerseID="81"><![CDATA["Till the Day of the Time Appointed."]]></Verse>
+	<Verse VerseID="82"><![CDATA[(Iblis) said: "Then, by Thy power, I will put them all in the wrong,-]]></Verse>
+	<Verse VerseID="83"><![CDATA["Except Thy Servants amongst them, sincere and purified (by Thy Grace)."]]></Verse>
+	<Verse VerseID="84"><![CDATA[(Allah) said: "Then it is just and fitting- and I say what is just and fitting-]]></Verse>
+	<Verse VerseID="85"><![CDATA["That I will certainly fill Hell with thee and those that follow thee,- every one."]]></Verse>
+	<Verse VerseID="86"><![CDATA[Say: "No reward do I ask of you for this (Qur´an), nor am I a pretender.]]></Verse>
+	<Verse VerseID="87"><![CDATA["This is no less than a Message to (all) the Worlds.]]></Verse>
+	<Verse VerseID="88"><![CDATA["And ye shall certainly know the truth of it (all) after a while."]]></Verse>
+</Chapter>

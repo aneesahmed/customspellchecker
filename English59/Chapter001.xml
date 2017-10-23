@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="1" ChapterName="The Opening">
+	<Verse VerseID="1"><![CDATA[In the name of Allah, Most Gracious, Most Merciful.]]></Verse>
+	<Verse VerseID="2"><![CDATA[Praise be to Allah, the Cherisher and Sustainer of the worlds;]]></Verse>
+	<Verse VerseID="3"><![CDATA[Most Gracious, Most Merciful;]]></Verse>
+	<Verse VerseID="4"><![CDATA[Master of the Day of Judgment.]]></Verse>
+	<Verse VerseID="5"><![CDATA[Thee do we worship, and Thine aid we seek.]]></Verse>
+	<Verse VerseID="6"><![CDATA[Show us the straight way,]]></Verse>
+	<Verse VerseID="7"><![CDATA[The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.]]></Verse>
+</Chapter>

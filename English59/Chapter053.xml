@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="53" ChapterName="The Star">
+	<Verse VerseID="1"><![CDATA[By the Star when it goes down,-]]></Verse>
+	<Verse VerseID="2"><![CDATA[Your Companion is neither astray nor being misled.]]></Verse>
+	<Verse VerseID="3"><![CDATA[Nor does he say (aught) of (his own) Desire.]]></Verse>
+	<Verse VerseID="4"><![CDATA[It is no less than inspiration sent down to him:]]></Verse>
+	<Verse VerseID="5"><![CDATA[He was taught by one Mighty in Power,]]></Verse>
+	<Verse VerseID="6"><![CDATA[Endued with Wisdom: for he appeared (in stately form);]]></Verse>
+	<Verse VerseID="7"><![CDATA[While he was in the highest part of the horizon:]]></Verse>
+	<Verse VerseID="8"><![CDATA[Then he approached and came closer,]]></Verse>
+	<Verse VerseID="9"><![CDATA[And was at a distance of but two bow-lengths or (even) nearer;]]></Verse>
+	<Verse VerseID="10"><![CDATA[So did (Allah) convey the inspiration to His Servant- (conveyed) what He (meant) to convey.]]></Verse>
+	<Verse VerseID="11"><![CDATA[The (Prophet´s) (mind and) heart in no way falsified that which he saw.]]></Verse>
+	<Verse VerseID="12"><![CDATA[Will ye then dispute with him concerning what he saw?]]></Verse>
+	<Verse VerseID="13"><![CDATA[For indeed he saw him at a second descent,]]></Verse>
+	<Verse VerseID="14"><![CDATA[Near the Lote-tree beyond which none may pass:]]></Verse>
+	<Verse VerseID="15"><![CDATA[Near it is the Garden of Abode.]]></Verse>
+	<Verse VerseID="16"><![CDATA[Behold, the Lote-tree was shrouded (in mystery unspeakable!)]]></Verse>
+	<Verse VerseID="17"><![CDATA[(His) sight never swerved, nor did it go wrong!]]></Verse>
+	<Verse VerseID="18"><![CDATA[For truly did he see, of the Signs of his Lord, the Greatest!]]></Verse>
+	<Verse VerseID="19"><![CDATA[Have ye seen Lat. and ´Uzza,]]></Verse>
+	<Verse VerseID="20"><![CDATA[And another, the third (goddess), Manat?]]></Verse>
+	<Verse VerseID="21"><![CDATA[What! for you the male sex, and for Him, the female?]]></Verse>
+	<Verse VerseID="22"><![CDATA[Behold, such would be indeed a division most unfair!]]></Verse>
+	<Verse VerseID="23"><![CDATA[These are nothing but names which ye have devised,- ye and your fathers,- for which Allah has sent down no authority (whatever). They follow nothing but conjecture and what their own souls desire!- Even though there has already come to them Guidance from their Lord!]]></Verse>
+	<Verse VerseID="24"><![CDATA[Nay, shall man have (just) anything he hankers after?]]></Verse>
+	<Verse VerseID="25"><![CDATA[But it is to Allah that the End and the Beginning (of all things) belong.]]></Verse>
+	<Verse VerseID="26"><![CDATA[How many-so-ever be the angels in the heavens, their intercession will avail nothing except after Allah has given leave for whom He pleases and that he is acceptable to Him.]]></Verse>
+	<Verse VerseID="27"><![CDATA[Those who believe not in the Hereafter, name the angels with female names.]]></Verse>
+	<Verse VerseID="28"><![CDATA[But they have no knowledge therein. They follow nothing but conjecture; and conjecture avails nothing against Truth.]]></Verse>
+	<Verse VerseID="29"><![CDATA[Therefore shun those who turn away from Our Message and desire nothing but the life of this world.]]></Verse>
+	<Verse VerseID="30"><![CDATA[That is as far as knowledge will reach them. Verily thy Lord knoweth best those who stray from His Path, and He knoweth best those who receive guidance.]]></Verse>
+	<Verse VerseID="31"><![CDATA[Yea, to Allah belongs all that is in the heavens and on earth: so that He rewards those who do evil, according to their deeds, and He rewards those who do good, with what is best.]]></Verse>
+	<Verse VerseID="32"><![CDATA[Those who avoid great sins and shameful deeds, only (falling into) small faults,- verily thy Lord is ample in forgiveness. He knows you well when He brings you out of the earth, And when ye are hidden in your mothers´ wombs. Therefore justify not yourselves: He knows best who it is that guards against evil.]]></Verse>
+	<Verse VerseID="33"><![CDATA[Seest thou one who turns back,]]></Verse>
+	<Verse VerseID="34"><![CDATA[Gives a little, then hardens (his heart)?]]></Verse>
+	<Verse VerseID="35"><![CDATA[What! Has he knowledge of the Unseen so that he can see?]]></Verse>
+	<Verse VerseID="36"><![CDATA[Nay, is he not acquainted with what is in the Books of Moses-]]></Verse>
+	<Verse VerseID="37"><![CDATA[And of Abraham who fulfilled his engagements?-]]></Verse>
+	<Verse VerseID="38"><![CDATA[Namely, that no bearer of burdens can bear the burden of another;]]></Verse>
+	<Verse VerseID="39"><![CDATA[That man can have nothing but what he strives for;]]></Verse>
+	<Verse VerseID="40"><![CDATA[That (the fruit of) his striving will soon come in sight:]]></Verse>
+	<Verse VerseID="41"><![CDATA[Then will he be rewarded with a reward complete;]]></Verse>
+	<Verse VerseID="42"><![CDATA[That to thy Lord is the final Goal;]]></Verse>
+	<Verse VerseID="43"><![CDATA[That it is He Who granteth Laughter and Tears;]]></Verse>
+	<Verse VerseID="44"><![CDATA[That it is He Who granteth Death and Life;]]></Verse>
+	<Verse VerseID="45"><![CDATA[That He did create in pairs,- male and female,]]></Verse>
+	<Verse VerseID="46"><![CDATA[From a seed when lodged (in its place);]]></Verse>
+	<Verse VerseID="47"><![CDATA[That He hath promised a Second Creation (Raising of the Dead);]]></Verse>
+	<Verse VerseID="48"><![CDATA[That it is He Who giveth wealth and satisfaction;]]></Verse>
+	<Verse VerseID="49"><![CDATA[That He is the Lord of Sirius (the Mighty Star);]]></Verse>
+	<Verse VerseID="50"><![CDATA[And that it is He Who destroyed the (powerful) ancient ´Ad (people),]]></Verse>
+	<Verse VerseID="51"><![CDATA[And the Thamud nor gave them a lease of perpetual life.]]></Verse>
+	<Verse VerseID="52"><![CDATA[And before them, the people of Noah, for that they were (all) most unjust and most insolent transgressors,]]></Verse>
+	<Verse VerseID="53"><![CDATA[And He destroyed the Overthrown Cities (of Sodom and Gomorrah).]]></Verse>
+	<Verse VerseID="54"><![CDATA[So that (ruins unknown) have covered them up.]]></Verse>
+	<Verse VerseID="55"><![CDATA[Then which of the gifts of thy Lord, (O man,) wilt thou dispute about?]]></Verse>
+	<Verse VerseID="56"><![CDATA[This is a Warner, of the (series of) Warners of old!]]></Verse>
+	<Verse VerseID="57"><![CDATA[The (Judgment) ever approaching draws nigh:]]></Verse>
+	<Verse VerseID="58"><![CDATA[No (soul) but Allah can lay it bare.]]></Verse>
+	<Verse VerseID="59"><![CDATA[Do ye then wonder at this recital?]]></Verse>
+	<Verse VerseID="60"><![CDATA[And will ye laugh and not weep,-]]></Verse>
+	<Verse VerseID="61"><![CDATA[Wasting your time in vanities?]]></Verse>
+	<Verse VerseID="62"><![CDATA[But fall ye down in prostration to Allah, and adore (Him)!]]></Verse>
+</Chapter>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="107" ChapterName="The Daily Necessar">
+	<Verse VerseID="1"><![CDATA[Seest thou one who denies the Judgment (to come)?]]></Verse>
+	<Verse VerseID="2"><![CDATA[Then such is the (man) who repulses the orphan (with harshness),]]></Verse>
+	<Verse VerseID="3"><![CDATA[And encourages not the feeding of the indigent.]]></Verse>
+	<Verse VerseID="4"><![CDATA[So woe to the worshippers]]></Verse>
+	<Verse VerseID="5"><![CDATA[Who are neglectful of their prayers,]]></Verse>
+	<Verse VerseID="6"><![CDATA[Those who (want but) to be seen (of men),]]></Verse>
+	<Verse VerseID="7"><![CDATA[But refuse (to supply) (even) neighbourly needs.]]></Verse>
+</Chapter>

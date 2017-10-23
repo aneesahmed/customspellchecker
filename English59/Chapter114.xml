@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="114" ChapterName="The Men">
+	<Verse VerseID="1"><![CDATA[Say: I seek refuge with the Lord and Cherisher of Mankind,]]></Verse>
+	<Verse VerseID="2"><![CDATA[The King (or Ruler) of Mankind,]]></Verse>
+	<Verse VerseID="3"><![CDATA[The god (or judge) of Mankind,-]]></Verse>
+	<Verse VerseID="4"><![CDATA[From the mischief of the Whisperer (of Evil), who withdraws (after his whisper),-]]></Verse>
+	<Verse VerseID="5"><![CDATA[(The same) who whispers into the hearts of Mankind,-]]></Verse>
+	<Verse VerseID="6"><![CDATA[Among Jinns and among men.]]></Verse>
+</Chapter>

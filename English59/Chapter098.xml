@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="98" ChapterName="The Clear Evidence">
+	<Verse VerseID="1"><![CDATA[Those who reject (Truth), among the People of the Book and among the Polytheists, were not going to depart (from their ways) until there should come to them Clear Evidence,-]]></Verse>
+	<Verse VerseID="2"><![CDATA[An messenger from Allah, rehearsing scriptures kept pure and holy:]]></Verse>
+	<Verse VerseID="3"><![CDATA[Wherein are laws (or decrees) right and straight.]]></Verse>
+	<Verse VerseID="4"><![CDATA[Nor did the People of the Book make schisms, until after there came to them Clear Evidence.]]></Verse>
+	<Verse VerseID="5"><![CDATA[And they have been commanded no more than this: To worship Allah, offering Him sincere devotion, being true (in faith); to establish regular prayer; and to practise regular charity; and that is the Religion Right and Straight.]]></Verse>
+	<Verse VerseID="6"><![CDATA[Those who reject (Truth), among the People of the Book and among the Polytheists, will be in Hell-Fire, to dwell therein (for aye). They are the worst of creatures.]]></Verse>
+	<Verse VerseID="7"><![CDATA[Those who have faith and do righteous deeds,- they are the best of creatures.]]></Verse>
+	<Verse VerseID="8"><![CDATA[Their reward is with Allah: Gardens of Eternity, beneath which rivers flow; they will dwell therein for ever; Allah well pleased with them, and they with Him: all this for such as fear their Lord and Cherisher.]]></Verse>
+</Chapter>

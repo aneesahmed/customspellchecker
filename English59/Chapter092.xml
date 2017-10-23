@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="92" ChapterName="The Night">
+	<Verse VerseID="1"><![CDATA[By the Night as it conceals (the light);]]></Verse>
+	<Verse VerseID="2"><![CDATA[By the Day as it appears in glory;]]></Verse>
+	<Verse VerseID="3"><![CDATA[By (the mystery of) the creation of male and female;-]]></Verse>
+	<Verse VerseID="4"><![CDATA[Verily, (the ends) ye strive for are diverse.]]></Verse>
+	<Verse VerseID="5"><![CDATA[So he who gives (in charity) and fears (Allah),]]></Verse>
+	<Verse VerseID="6"><![CDATA[And (in all sincerity) testifies to the best,-]]></Verse>
+	<Verse VerseID="7"><![CDATA[We will indeed make smooth for him the path to Bliss.]]></Verse>
+	<Verse VerseID="8"><![CDATA[But he who is a greedy miser and thinks himself self-sufficient,]]></Verse>
+	<Verse VerseID="9"><![CDATA[And gives the lie to the best,-]]></Verse>
+	<Verse VerseID="10"><![CDATA[We will indeed make smooth for him the path to Misery;]]></Verse>
+	<Verse VerseID="11"><![CDATA[Nor will his wealth profit him when he falls headlong (into the Pit).]]></Verse>
+	<Verse VerseID="12"><![CDATA[Verily We take upon Ourselves to guide,]]></Verse>
+	<Verse VerseID="13"><![CDATA[And verily unto Us (belong) the End and the Beginning.]]></Verse>
+	<Verse VerseID="14"><![CDATA[Therefore do I warn you of a Fire blazing fiercely;]]></Verse>
+	<Verse VerseID="15"><![CDATA[None shall reach it but those most unfortunate ones]]></Verse>
+	<Verse VerseID="16"><![CDATA[Who give the lie to Truth and turn their backs.]]></Verse>
+	<Verse VerseID="17"><![CDATA[But those most devoted to Allah shall be removed far from it,-]]></Verse>
+	<Verse VerseID="18"><![CDATA[Those who spend their wealth for increase in self-purification,]]></Verse>
+	<Verse VerseID="19"><![CDATA[And have in their minds no favour from anyone for which a reward is expected in return,]]></Verse>
+	<Verse VerseID="20"><![CDATA[But only the desire to seek for the Countenance of their Lord Most High;]]></Verse>
+	<Verse VerseID="21"><![CDATA[And soon will they attain (complete) satisfaction.]]></Verse>
+</Chapter>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="79" ChapterName="Those Who Pull Out">
+	<Verse VerseID="1"><![CDATA[By the (angels) who tear out (the souls of the wicked) with violence;]]></Verse>
+	<Verse VerseID="2"><![CDATA[By those who gently draw out (the souls of the blessed);]]></Verse>
+	<Verse VerseID="3"><![CDATA[And by those who glide along (on errands of mercy),]]></Verse>
+	<Verse VerseID="4"><![CDATA[Then press forward as in a race,]]></Verse>
+	<Verse VerseID="5"><![CDATA[Then arrange to do (the Commands of their Lord),]]></Verse>
+	<Verse VerseID="6"><![CDATA[One Day everything that can be in commotion will be in violent commotion,]]></Verse>
+	<Verse VerseID="7"><![CDATA[Followed by oft-repeated (commotions):]]></Verse>
+	<Verse VerseID="8"><![CDATA[Hearts that Day will be in agitation;]]></Verse>
+	<Verse VerseID="9"><![CDATA[Cast down will be (their owners´) eyes.]]></Verse>
+	<Verse VerseID="10"><![CDATA[They say (now): "What! shall we indeed be returned to (our) former state?]]></Verse>
+	<Verse VerseID="11"><![CDATA["What! - when we shall have become rotten bones?"]]></Verse>
+	<Verse VerseID="12"><![CDATA[They say: "It would, in that case, be a return with loss!"]]></Verse>
+	<Verse VerseID="13"><![CDATA[But verily, it will be but a single (Compelling) Cry,]]></Verse>
+	<Verse VerseID="14"><![CDATA[When, behold, they will be in the (full) awakening (to Judgment).]]></Verse>
+	<Verse VerseID="15"><![CDATA[Has the story of Moses reached thee?]]></Verse>
+	<Verse VerseID="16"><![CDATA[Behold, thy Lord did call to him in the sacred valley of Tuwa:-]]></Verse>
+	<Verse VerseID="17"><![CDATA["Go thou to Pharaoh for he has indeed transgressed all bounds:]]></Verse>
+	<Verse VerseID="18"><![CDATA["And say to him, ´Wouldst thou that thou shouldst be purified (from sin)?-]]></Verse>
+	<Verse VerseID="19"><![CDATA["´And that I guide thee to thy Lord, so thou shouldst fear Him?´"]]></Verse>
+	<Verse VerseID="20"><![CDATA[Then did (Moses) show him the Great Sign.]]></Verse>
+	<Verse VerseID="21"><![CDATA[But (Pharaoh) rejected it and disobeyed (guidance);]]></Verse>
+	<Verse VerseID="22"><![CDATA[Further, he turned his back, striving hard (against Allah).]]></Verse>
+	<Verse VerseID="23"><![CDATA[Then he collected (his men) and made a proclamation,]]></Verse>
+	<Verse VerseID="24"><![CDATA[Saying, "I am your Lord, Most High".]]></Verse>
+	<Verse VerseID="25"><![CDATA[But Allah did punish him, (and made an) example of him, - in the Hereafter, as in this life.]]></Verse>
+	<Verse VerseID="26"><![CDATA[Verily in this is an instructive warning for whosoever feareth (Allah).]]></Verse>
+	<Verse VerseID="27"><![CDATA[What! Are ye the more difficult to create or the heaven (above)? (Allah) hath constructed it:]]></Verse>
+	<Verse VerseID="28"><![CDATA[On high hath He raised its canopy, and He hath given it order and perfection.]]></Verse>
+	<Verse VerseID="29"><![CDATA[Its night doth He endow with darkness, and its splendour doth He bring out (with light).]]></Verse>
+	<Verse VerseID="30"><![CDATA[And the earth, moreover, hath He extended (to a wide expanse);]]></Verse>
+	<Verse VerseID="31"><![CDATA[He draweth out therefrom its moisture and its pasture;]]></Verse>
+	<Verse VerseID="32"><![CDATA[And the mountains hath He firmly fixed;-]]></Verse>
+	<Verse VerseID="33"><![CDATA[For use and convenience to you and your cattle.]]></Verse>
+	<Verse VerseID="34"><![CDATA[Therefore, when there comes the great, overwhelming (Event),-]]></Verse>
+	<Verse VerseID="35"><![CDATA[The Day when man shall remember (all) that he strove for,]]></Verse>
+	<Verse VerseID="36"><![CDATA[And Hell-Fire shall be placed in full view for (all) to see,-]]></Verse>
+	<Verse VerseID="37"><![CDATA[Then, for such as had transgressed all bounds,]]></Verse>
+	<Verse VerseID="38"><![CDATA[And had preferred the life of this world,]]></Verse>
+	<Verse VerseID="39"><![CDATA[The Abode will be Hell-Fire;]]></Verse>
+	<Verse VerseID="40"><![CDATA[And for such as had entertained the fear of standing before their Lord´s (tribunal) and had restrained (their) soul from lower desires,]]></Verse>
+	<Verse VerseID="41"><![CDATA[Their abode will be the Garden.]]></Verse>
+	<Verse VerseID="42"><![CDATA[They ask thee about the Hour,-´When will be its appointed time?]]></Verse>
+	<Verse VerseID="43"><![CDATA[Wherein art thou (concerned) with the declaration thereof?]]></Verse>
+	<Verse VerseID="44"><![CDATA[With thy Lord in the Limit fixed therefor.]]></Verse>
+	<Verse VerseID="45"><![CDATA[Thou art but a Warner for such as fear it.]]></Verse>
+	<Verse VerseID="46"><![CDATA[The Day they see it, (It will be) as if they had tarried but a single evening, or (at most till) the following morn!]]></Verse>
+</Chapter>

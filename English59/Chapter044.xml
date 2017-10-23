@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="44" ChapterName="The Evident Smoke">
+	<Verse VerseID="1"><![CDATA[Ha-Mim.]]></Verse>
+	<Verse VerseID="2"><![CDATA[By the Book that makes things clear;-]]></Verse>
+	<Verse VerseID="3"><![CDATA[We sent it down during a Blessed Night: for We (ever) wish to warn (against Evil).]]></Verse>
+	<Verse VerseID="4"><![CDATA[In the (Night) is made distinct every affair of wisdom,]]></Verse>
+	<Verse VerseID="5"><![CDATA[By command, from Our Presence. For We (ever) send (revelations),]]></Verse>
+	<Verse VerseID="6"><![CDATA[As Mercy from thy Lord: for He hears and knows (all things);]]></Verse>
+	<Verse VerseID="7"><![CDATA[The Lord of the heavens and the earth and all between them, if ye (but) have an assured faith.]]></Verse>
+	<Verse VerseID="8"><![CDATA[There is no god but He: It is He Who gives life and gives death,- The Lord and Cherisher to you and your earliest ancestors.]]></Verse>
+	<Verse VerseID="9"><![CDATA[Yet they play about in doubt.]]></Verse>
+	<Verse VerseID="10"><![CDATA[Then watch thou for the Day that the sky will bring forth a kind of smoke (or mist) plainly visible,]]></Verse>
+	<Verse VerseID="11"><![CDATA[Enveloping the people: this will be a Penalty Grievous.]]></Verse>
+	<Verse VerseID="12"><![CDATA[(They will say:) "Our Lord! remove the Penalty from us, for we do really believe!"]]></Verse>
+	<Verse VerseID="13"><![CDATA[How shall the message be (effectual) for them, seeing that an Messenger explaining things clearly has (already) come to them,-]]></Verse>
+	<Verse VerseID="14"><![CDATA[Yet they turn away from him and say: "Tutored (by others), a man possessed!"]]></Verse>
+	<Verse VerseID="15"><![CDATA[We shall indeed remove the Penalty for a while, (but) truly ye will revert (to your ways).]]></Verse>
+	<Verse VerseID="16"><![CDATA[One day We shall seize you with a mighty onslaught: We will indeed (then) exact Retribution!]]></Verse>
+	<Verse VerseID="17"><![CDATA[We did, before them, try the people of Pharaoh: there came to them a messenger most honourable,]]></Verse>
+	<Verse VerseID="18"><![CDATA[Saying: "Restore to me the Servants of Allah: I am to you an messenger worthy of all trust;]]></Verse>
+	<Verse VerseID="19"><![CDATA["And be not arrogant as against Allah: for I come to you with authority manifest.]]></Verse>
+	<Verse VerseID="20"><![CDATA["For me, I have sought safety with my Lord and your Lord, against your injuring me.]]></Verse>
+	<Verse VerseID="21"><![CDATA["If ye believe me not, at least keep yourselves away from me."]]></Verse>
+	<Verse VerseID="22"><![CDATA[(But they were aggressive:) then he cried to his Lord: "These are indeed a people given to sin."]]></Verse>
+	<Verse VerseID="23"><![CDATA[(The reply came:) "March forth with My Servants by night: for ye are sure to be pursued.]]></Verse>
+	<Verse VerseID="24"><![CDATA["And leave the sea as a furrow (divided): for they are a host (destined) to be drowned."]]></Verse>
+	<Verse VerseID="25"><![CDATA[How many were the gardens and springs they left behind,]]></Verse>
+	<Verse VerseID="26"><![CDATA[And corn-fields and noble buildings,]]></Verse>
+	<Verse VerseID="27"><![CDATA[And wealth (and conveniences of life), wherein they had taken such delight!]]></Verse>
+	<Verse VerseID="28"><![CDATA[Thus (was their end)! And We made other people inherit (those things)!]]></Verse>
+	<Verse VerseID="29"><![CDATA[And neither heaven nor earth shed a tear over them: nor were they given a respite (again).]]></Verse>
+	<Verse VerseID="30"><![CDATA[We did deliver aforetime the Children of Israel from humiliating Punishment,]]></Verse>
+	<Verse VerseID="31"><![CDATA[Inflicted by Pharaoh, for he was arrogant (even) among inordinate transgressors.]]></Verse>
+	<Verse VerseID="32"><![CDATA[And We chose them aforetime above the nations, knowingly,]]></Verse>
+	<Verse VerseID="33"><![CDATA[And granted them Signs in which there was a manifest trial]]></Verse>
+	<Verse VerseID="34"><![CDATA[As to these (Quraish), they say forsooth:]]></Verse>
+	<Verse VerseID="35"><![CDATA["There is nothing beyond our first death, and we shall not be raised again.]]></Verse>
+	<Verse VerseID="36"><![CDATA["Then bring (back) our forefathers, if what ye say is true!"]]></Verse>
+	<Verse VerseID="37"><![CDATA[What! Are they better than the people of Tubba and those who were before them? We destroyed them because they were guilty of sin.]]></Verse>
+	<Verse VerseID="38"><![CDATA[We created not the heavens, the earth, and all between them, merely in (idle) sport:]]></Verse>
+	<Verse VerseID="39"><![CDATA[We created them not except for just ends: but most of them do not understand.]]></Verse>
+	<Verse VerseID="40"><![CDATA[Verily the Day of sorting out is the time appointed for all of them,-]]></Verse>
+	<Verse VerseID="41"><![CDATA[The Day when no protector can avail his client in aught, and no help can they receive,]]></Verse>
+	<Verse VerseID="42"><![CDATA[Except such as receive Allah´s Mercy: for He is Exalted in Might, Most Merciful.]]></Verse>
+	<Verse VerseID="43"><![CDATA[Verily the tree of Zaqqum]]></Verse>
+	<Verse VerseID="44"><![CDATA[Will be the food of the Sinful,-]]></Verse>
+	<Verse VerseID="45"><![CDATA[Like molten brass; it will boil in their insides.]]></Verse>
+	<Verse VerseID="46"><![CDATA[Like the boiling of scalding water.]]></Verse>
+	<Verse VerseID="47"><![CDATA[(A voice will cry: "Seize ye him and drag him into the midst of the Blazing Fire!]]></Verse>
+	<Verse VerseID="48"><![CDATA["Then pour over his head the Penalty of Boiling Water,]]></Verse>
+	<Verse VerseID="49"><![CDATA["Taste thou (this)! Truly wast thou mighty, full of honour!]]></Verse>
+	<Verse VerseID="50"><![CDATA["Truly this is what ye used to doubt!"]]></Verse>
+	<Verse VerseID="51"><![CDATA[As to the Righteous (they will be) in a position of Security,]]></Verse>
+	<Verse VerseID="52"><![CDATA[Among Gardens and Springs;]]></Verse>
+	<Verse VerseID="53"><![CDATA[Dressed in fine silk and in rich brocade, they will face each other;]]></Verse>
+	<Verse VerseID="54"><![CDATA[So; and We shall join them to fair women with beautiful, big, and lustrous eyes.]]></Verse>
+	<Verse VerseID="55"><![CDATA[There can they call for every kind of fruit in peace and security;]]></Verse>
+	<Verse VerseID="56"><![CDATA[Nor will they there taste Death, except the first death; and He will preserve them from the Penalty of the Blazing Fire,-]]></Verse>
+	<Verse VerseID="57"><![CDATA[As a Bounty from thy Lord! that will be the supreme achievement!]]></Verse>
+	<Verse VerseID="58"><![CDATA[Verily, We have made this (Qur´an) easy, in thy tongue, in order that they may give heed.]]></Verse>
+	<Verse VerseID="59"><![CDATA[So wait thou and watch; for they (too) are waiting.]]></Verse>
+</Chapter>

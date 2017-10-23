@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="112" ChapterName="The Unity">
+	<Verse VerseID="1"><![CDATA[Say: He is Allah, the One and Only;]]></Verse>
+	<Verse VerseID="2"><![CDATA[Allah, the Eternal, Absolute;]]></Verse>
+	<Verse VerseID="3"><![CDATA[He begetteth not, nor is He begotten;]]></Verse>
+	<Verse VerseID="4"><![CDATA[And there is none like unto Him.]]></Verse>
+</Chapter>

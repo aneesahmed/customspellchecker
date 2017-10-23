@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="91" ChapterName="The Sun">
+	<Verse VerseID="1"><![CDATA[By the Sun and his (glorious) splendour;]]></Verse>
+	<Verse VerseID="2"><![CDATA[By the Moon as she follows him;]]></Verse>
+	<Verse VerseID="3"><![CDATA[By the Day as it shows up (the Sun´s) glory;]]></Verse>
+	<Verse VerseID="4"><![CDATA[By the Night as it conceals it;]]></Verse>
+	<Verse VerseID="5"><![CDATA[By the Firmament and its (wonderful) structure;]]></Verse>
+	<Verse VerseID="6"><![CDATA[By the Earth and its (wide) expanse:]]></Verse>
+	<Verse VerseID="7"><![CDATA[By the Soul, and the proportion and order given to it;]]></Verse>
+	<Verse VerseID="8"><![CDATA[And its enlightenment as to its wrong and its right;-]]></Verse>
+	<Verse VerseID="9"><![CDATA[Truly he succeeds that purifies it,]]></Verse>
+	<Verse VerseID="10"><![CDATA[And he fails that corrupts it!]]></Verse>
+	<Verse VerseID="11"><![CDATA[The Thamud (people) rejected (their prophet) through their inordinate wrong-doing,]]></Verse>
+	<Verse VerseID="12"><![CDATA[Behold, the most wicked man among them was deputed (for impiety).]]></Verse>
+	<Verse VerseID="13"><![CDATA[But the Messenger of Allah said to them: "It is a She-camel of Allah! And (bar her not from) having her drink!"]]></Verse>
+	<Verse VerseID="14"><![CDATA[Then they rejected him (as a false prophet), and they hamstrung her. So their Lord, on account of their crime, obliterated their traces and made them equal (in destruction, high and low)!]]></Verse>
+	<Verse VerseID="15"><![CDATA[And for Him is no fear of its consequences.]]></Verse>
+</Chapter>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="86" ChapterName="The Night-Comer">
+	<Verse VerseID="1"><![CDATA[By the Sky and the Night-Visitant (therein);-]]></Verse>
+	<Verse VerseID="2"><![CDATA[And what will explain to thee what the Night-Visitant is?-]]></Verse>
+	<Verse VerseID="3"><![CDATA[(It is) the Star of piercing brightness;-]]></Verse>
+	<Verse VerseID="4"><![CDATA[There is no soul but has a protector over it.]]></Verse>
+	<Verse VerseID="5"><![CDATA[Now let man but think from what he is created!]]></Verse>
+	<Verse VerseID="6"><![CDATA[He is created from a drop emitted-]]></Verse>
+	<Verse VerseID="7"><![CDATA[Proceeding from between the backbone and the ribs:]]></Verse>
+	<Verse VerseID="8"><![CDATA[Surely (Allah) is able to bring him back (to life)!]]></Verse>
+	<Verse VerseID="9"><![CDATA[The Day that (all) things secret will be tested,]]></Verse>
+	<Verse VerseID="10"><![CDATA[(Man) will have no power, and no helper.]]></Verse>
+	<Verse VerseID="11"><![CDATA[By the Firmament which returns (in its round),]]></Verse>
+	<Verse VerseID="12"><![CDATA[And by the Earth which opens out (for the gushing of springs or the sprouting of vegetation),-]]></Verse>
+	<Verse VerseID="13"><![CDATA[Behold this is the Word that distinguishes (Good from Evil):]]></Verse>
+	<Verse VerseID="14"><![CDATA[It is not a thing for amusement.]]></Verse>
+	<Verse VerseID="15"><![CDATA[As for them, they are but plotting a scheme,]]></Verse>
+	<Verse VerseID="16"><![CDATA[And I am planning a scheme.]]></Verse>
+	<Verse VerseID="17"><![CDATA[Therefore grant a delay to the Unbelievers: Give respite to them gently (for awhile).]]></Verse>
+</Chapter>

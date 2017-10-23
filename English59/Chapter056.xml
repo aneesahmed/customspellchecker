@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="56" ChapterName="The Great Event">
+	<Verse VerseID="1"><![CDATA[When the Event inevitable cometh to pass,]]></Verse>
+	<Verse VerseID="2"><![CDATA[Then will no (soul) entertain falsehood concerning its coming.]]></Verse>
+	<Verse VerseID="3"><![CDATA[(Many) will it bring low; (many) will it exalt;]]></Verse>
+	<Verse VerseID="4"><![CDATA[When the earth shall be shaken to its depths,]]></Verse>
+	<Verse VerseID="5"><![CDATA[And the mountains shall be crumbled to atoms,]]></Verse>
+	<Verse VerseID="6"><![CDATA[Becoming dust scattered abroad,]]></Verse>
+	<Verse VerseID="7"><![CDATA[And ye shall be sorted out into three classes.]]></Verse>
+	<Verse VerseID="8"><![CDATA[Then (there will be) the Companions of the Right Hand;- What will be the Companions of the Right Hand?]]></Verse>
+	<Verse VerseID="9"><![CDATA[And the Companions of the Left Hand,- what will be the Companions of the Left Hand?]]></Verse>
+	<Verse VerseID="10"><![CDATA[And those Foremost (in Faith) will be Foremost (in the Hereafter).]]></Verse>
+	<Verse VerseID="11"><![CDATA[These will be those Nearest to Allah:]]></Verse>
+	<Verse VerseID="12"><![CDATA[In Gardens of Bliss:]]></Verse>
+	<Verse VerseID="13"><![CDATA[A number of people from those of old,]]></Verse>
+	<Verse VerseID="14"><![CDATA[And a few from those of later times.]]></Verse>
+	<Verse VerseID="15"><![CDATA[(They will be) on Thrones encrusted (with gold and precious stones),]]></Verse>
+	<Verse VerseID="16"><![CDATA[Reclining on them, facing each other.]]></Verse>
+	<Verse VerseID="17"><![CDATA[Round about them will (serve) youths of perpetual (freshness),]]></Verse>
+	<Verse VerseID="18"><![CDATA[With goblets, (shining) beakers, and cups (filled) out of clear-flowing fountains:]]></Verse>
+	<Verse VerseID="19"><![CDATA[No after-ache will they receive therefrom, nor will they suffer intoxication:]]></Verse>
+	<Verse VerseID="20"><![CDATA[And with fruits, any that they may select:]]></Verse>
+	<Verse VerseID="21"><![CDATA[And the flesh of fowls, any that they may desire.]]></Verse>
+	<Verse VerseID="22"><![CDATA[And (there will be) Companions with beautiful, big, and lustrous eyes,-]]></Verse>
+	<Verse VerseID="23"><![CDATA[Like unto Pearls well-guarded.]]></Verse>
+	<Verse VerseID="24"><![CDATA[A Reward for the deeds of their past (life).]]></Verse>
+	<Verse VerseID="25"><![CDATA[Not frivolity will they hear therein, nor any taint of ill,-]]></Verse>
+	<Verse VerseID="26"><![CDATA[Only the saying, "Peace! Peace".]]></Verse>
+	<Verse VerseID="27"><![CDATA[The Companions of the Right Hand,- what will be the Companions of the Right Hand?]]></Verse>
+	<Verse VerseID="28"><![CDATA[(They will be) among Lote-trees without thorns,]]></Verse>
+	<Verse VerseID="29"><![CDATA[Among Talh trees with flowers (or fruits) piled one above another,-]]></Verse>
+	<Verse VerseID="30"><![CDATA[In shade long-extended,]]></Verse>
+	<Verse VerseID="31"><![CDATA[By water flowing constantly,]]></Verse>
+	<Verse VerseID="32"><![CDATA[And fruit in abundance.]]></Verse>
+	<Verse VerseID="33"><![CDATA[Whose season is not limited, nor (supply) forbidden,]]></Verse>
+	<Verse VerseID="34"><![CDATA[And on Thrones (of Dignity), raised high.]]></Verse>
+	<Verse VerseID="35"><![CDATA[We have created (their Companions) of special creation.]]></Verse>
+	<Verse VerseID="36"><![CDATA[And made them virgin - pure (and undefiled), -]]></Verse>
+	<Verse VerseID="37"><![CDATA[Beloved (by nature), equal in age,-]]></Verse>
+	<Verse VerseID="38"><![CDATA[For the Companions of the Right Hand.]]></Verse>
+	<Verse VerseID="39"><![CDATA[A (goodly) number from those of old,]]></Verse>
+	<Verse VerseID="40"><![CDATA[And a (goodly) number from those of later times.]]></Verse>
+	<Verse VerseID="41"><![CDATA[The Companions of the Left Hand,- what will be the Companions of the Left Hand?]]></Verse>
+	<Verse VerseID="42"><![CDATA[(They will be) in the midst of a Fierce Blast of Fire and in Boiling Water,]]></Verse>
+	<Verse VerseID="43"><![CDATA[And in the shades of Black Smoke:]]></Verse>
+	<Verse VerseID="44"><![CDATA[Nothing (will there be) to refresh, nor to please:]]></Verse>
+	<Verse VerseID="45"><![CDATA[For that they were wont to be indulged, before that, in wealth (and luxury),]]></Verse>
+	<Verse VerseID="46"><![CDATA[And persisted obstinately in wickedness supreme!]]></Verse>
+	<Verse VerseID="47"><![CDATA[And they used to say, "What! when we die and become dust and bones, shall we then indeed be raised up again?-]]></Verse>
+	<Verse VerseID="48"><![CDATA["(We) and our fathers of old?"]]></Verse>
+	<Verse VerseID="49"><![CDATA[Say: "Yea, those of old and those of later times,]]></Verse>
+	<Verse VerseID="50"><![CDATA["All will certainly be gathered together for the meeting appointed for a Day well-known.]]></Verse>
+	<Verse VerseID="51"><![CDATA["Then will ye truly,- O ye that go wrong, and treat (Truth) as Falsehood!-]]></Verse>
+	<Verse VerseID="52"><![CDATA["Ye will surely taste of the Tree of Zaqqum.]]></Verse>
+	<Verse VerseID="53"><![CDATA["Then will ye fill your insides therewith,]]></Verse>
+	<Verse VerseID="54"><![CDATA["And drink Boiling Water on top of it:]]></Verse>
+	<Verse VerseID="55"><![CDATA["Indeed ye shall drink like diseased camels raging with thirst!"]]></Verse>
+	<Verse VerseID="56"><![CDATA[Such will be their entertainment on the Day of Requital!]]></Verse>
+	<Verse VerseID="57"><![CDATA[It is We Who have created you: why will ye not witness the Truth?]]></Verse>
+	<Verse VerseID="58"><![CDATA[Do ye then see?- The (human Seed) that ye throw out,-]]></Verse>
+	<Verse VerseID="59"><![CDATA[Is it ye who create it, or are We the Creators?]]></Verse>
+	<Verse VerseID="60"><![CDATA[We have decreed Death to be your common lot, and We are not to be frustrated]]></Verse>
+	<Verse VerseID="61"><![CDATA[from changing your Forms and creating you (again) in (forms) that ye know not.]]></Verse>
+	<Verse VerseID="62"><![CDATA[And ye certainly know already the first form of creation: why then do ye not celebrate His praises?]]></Verse>
+	<Verse VerseID="63"><![CDATA[See ye the seed that ye sow in the ground?]]></Verse>
+	<Verse VerseID="64"><![CDATA[Is it ye that cause it to grow, or are We the Cause?]]></Verse>
+	<Verse VerseID="65"><![CDATA[Were it Our Will, We could crumble it to dry powder, and ye would be left in wonderment,]]></Verse>
+	<Verse VerseID="66"><![CDATA[(Saying), "We are indeed left with debts (for nothing):]]></Verse>
+	<Verse VerseID="67"><![CDATA["Indeed are we shut out (of the fruits of our labour)"]]></Verse>
+	<Verse VerseID="68"><![CDATA[See ye the water which ye drink?]]></Verse>
+	<Verse VerseID="69"><![CDATA[Do ye bring it down (in rain) from the cloud or do We?]]></Verse>
+	<Verse VerseID="70"><![CDATA[Were it Our Will, We could make it salt (and unpalatable): then why do ye not give thanks?]]></Verse>
+	<Verse VerseID="71"><![CDATA[See ye the Fire which ye kindle?]]></Verse>
+	<Verse VerseID="72"><![CDATA[Is it ye who grow the tree which feeds the fire, or do We grow it?]]></Verse>
+	<Verse VerseID="73"><![CDATA[We have made it a memorial (of Our handiwork), and an article of comfort and convenience for the denizens of deserts.]]></Verse>
+	<Verse VerseID="74"><![CDATA[Then celebrate with praises the name of thy Lord, the Supreme!]]></Verse>
+	<Verse VerseID="75"><![CDATA[Furthermore I call to witness the setting of the Stars,-]]></Verse>
+	<Verse VerseID="76"><![CDATA[And that is indeed a mighty adjuration if ye but knew,-]]></Verse>
+	<Verse VerseID="77"><![CDATA[That this is indeed a qur´an Most Honourable,]]></Verse>
+	<Verse VerseID="78"><![CDATA[In Book well-guarded,]]></Verse>
+	<Verse VerseID="79"><![CDATA[Which none shall touch but those who are clean:]]></Verse>
+	<Verse VerseID="80"><![CDATA[A Revelation from the Lord of the Worlds.]]></Verse>
+	<Verse VerseID="81"><![CDATA[Is it such a Message that ye would hold in light esteem?]]></Verse>
+	<Verse VerseID="82"><![CDATA[And have ye made it your livelihood that ye should declare it false?]]></Verse>
+	<Verse VerseID="83"><![CDATA[Then why do ye not (intervene) when (the soul of the dying man) reaches the throat,-]]></Verse>
+	<Verse VerseID="84"><![CDATA[And ye the while (sit) looking on,-]]></Verse>
+	<Verse VerseID="85"><![CDATA[But We are nearer to him than ye, and yet see not,-]]></Verse>
+	<Verse VerseID="86"><![CDATA[Then why do ye not,- If you are exempt from (future) account,-]]></Verse>
+	<Verse VerseID="87"><![CDATA[Call back the soul, if ye are true (in the claim of independence)?]]></Verse>
+	<Verse VerseID="88"><![CDATA[Thus, then, if he be of those Nearest to Allah,]]></Verse>
+	<Verse VerseID="89"><![CDATA[(There is for him) Rest and Satisfaction, and a Garden of Delights.]]></Verse>
+	<Verse VerseID="90"><![CDATA[And if he be of the Companions of the Right Hand,]]></Verse>
+	<Verse VerseID="91"><![CDATA[(For him is the salutation), "Peace be unto thee", from the Companions of the Right Hand.]]></Verse>
+	<Verse VerseID="92"><![CDATA[And if he be of those who treat (Truth) as Falsehood, who go wrong,]]></Verse>
+	<Verse VerseID="93"><![CDATA[For him is Entertainment with Boiling Water.]]></Verse>
+	<Verse VerseID="94"><![CDATA[And burning in Hell-Fire.]]></Verse>
+	<Verse VerseID="95"><![CDATA[Verily, this is the Very Truth and Certainly.]]></Verse>
+	<Verse VerseID="96"><![CDATA[So celebrate with praises the name of thy Lord, the Supreme.]]></Verse>
+</Chapter>

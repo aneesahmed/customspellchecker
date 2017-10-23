@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="105" ChapterName="The Elephant">
+	<Verse VerseID="1"><![CDATA[Seest thou not how thy Lord dealt with the Companions of the Elephant?]]></Verse>
+	<Verse VerseID="2"><![CDATA[Did He not make their treacherous plan go astray?]]></Verse>
+	<Verse VerseID="3"><![CDATA[And He sent against them Flights of Birds,]]></Verse>
+	<Verse VerseID="4"><![CDATA[Striking them with stones of baked clay.]]></Verse>
+	<Verse VerseID="5"><![CDATA[Then did He make them like an empty field of stalks and straw, (of which the corn) has been eaten up.]]></Verse>
+</Chapter>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="101" ChapterName="The Terrible Calam">
+	<Verse VerseID="1"><![CDATA[The (Day) of Noise and Clamour:]]></Verse>
+	<Verse VerseID="2"><![CDATA[What is the (Day) of Noise and Clamour?]]></Verse>
+	<Verse VerseID="3"><![CDATA[And what will explain to thee what the (Day) of Noise and Clamour is?]]></Verse>
+	<Verse VerseID="4"><![CDATA[(It is) a Day whereon men will be like moths scattered about,]]></Verse>
+	<Verse VerseID="5"><![CDATA[And the mountains will be like carded wool.]]></Verse>
+	<Verse VerseID="6"><![CDATA[Then, he whose balance (of good deeds) will be (found) heavy,]]></Verse>
+	<Verse VerseID="7"><![CDATA[Will be in a life of good pleasure and satisfaction.]]></Verse>
+	<Verse VerseID="8"><![CDATA[But he whose balance (of good deeds) will be (found) light,-]]></Verse>
+	<Verse VerseID="9"><![CDATA[Will have his home in a (bottomless) Pit.]]></Verse>
+	<Verse VerseID="10"><![CDATA[And what will explain to thee what this is?]]></Verse>
+	<Verse VerseID="11"><![CDATA[(It is) a Fire Blazing fiercely!]]></Verse>
+</Chapter>

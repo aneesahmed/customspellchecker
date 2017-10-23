@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="70" ChapterName="The Ways Of Ascent">
+	<Verse VerseID="1"><![CDATA[A questioner asked about a Penalty to befall-]]></Verse>
+	<Verse VerseID="2"><![CDATA[The Unbelievers, the which there is none to ward off,-]]></Verse>
+	<Verse VerseID="3"><![CDATA[(A Penalty) from Allah, Lord of the Ways of Ascent.]]></Verse>
+	<Verse VerseID="4"><![CDATA[The angels and the spirit ascend unto him in a Day the measure whereof is (as) fifty thousand years:]]></Verse>
+	<Verse VerseID="5"><![CDATA[Therefore do thou hold Patience,- a Patience of beautiful (contentment).]]></Verse>
+	<Verse VerseID="6"><![CDATA[They see the (Day) indeed as a far-off (event):]]></Verse>
+	<Verse VerseID="7"><![CDATA[But We see it (quite) near.]]></Verse>
+	<Verse VerseID="8"><![CDATA[The Day that the sky will be like molten brass,]]></Verse>
+	<Verse VerseID="9"><![CDATA[And the mountains will be like wool,]]></Verse>
+	<Verse VerseID="10"><![CDATA[And no friend will ask after a friend,]]></Verse>
+	<Verse VerseID="11"><![CDATA[Though they will be put in sight of each other,- the sinner´s desire will be: Would that he could redeem himself from the Penalty of that Day by (sacrificing) his children,]]></Verse>
+	<Verse VerseID="12"><![CDATA[His wife and his brother,]]></Verse>
+	<Verse VerseID="13"><![CDATA[His kindred who sheltered him,]]></Verse>
+	<Verse VerseID="14"><![CDATA[And all, all that is on earth,- so it could deliver him:]]></Verse>
+	<Verse VerseID="15"><![CDATA[By no means! for it would be the Fire of Hell!-]]></Verse>
+	<Verse VerseID="16"><![CDATA[Plucking out (his being) right to the skull!-]]></Verse>
+	<Verse VerseID="17"><![CDATA[Inviting (all) such as turn their backs and turn away their faces (from the Right).]]></Verse>
+	<Verse VerseID="18"><![CDATA[And collect (wealth) and hide it (from use)!]]></Verse>
+	<Verse VerseID="19"><![CDATA[Truly man was created very impatient;-]]></Verse>
+	<Verse VerseID="20"><![CDATA[Fretful when evil touches him;]]></Verse>
+	<Verse VerseID="21"><![CDATA[And niggardly when good reaches him;-]]></Verse>
+	<Verse VerseID="22"><![CDATA[Not so those devoted to Prayer;-]]></Verse>
+	<Verse VerseID="23"><![CDATA[Those who remain steadfast to their prayer;]]></Verse>
+	<Verse VerseID="24"><![CDATA[And those in whose wealth is a recognised right.]]></Verse>
+	<Verse VerseID="25"><![CDATA[For the (needy) who asks and him who is prevented (for some reason from asking);]]></Verse>
+	<Verse VerseID="26"><![CDATA[And those who hold to the truth of the Day of Judgment;]]></Verse>
+	<Verse VerseID="27"><![CDATA[And those who fear the displeasure of their Lord,-]]></Verse>
+	<Verse VerseID="28"><![CDATA[For their Lord´s displeasure is the opposite of Peace and Tranquillity;-]]></Verse>
+	<Verse VerseID="29"><![CDATA[And those who guard their chastity,]]></Verse>
+	<Verse VerseID="30"><![CDATA[Except with their wives and the (captives) whom their right hands possess,- for (then) they are not to be blamed,]]></Verse>
+	<Verse VerseID="31"><![CDATA[But those who trespass beyond this are transgressors;-]]></Verse>
+	<Verse VerseID="32"><![CDATA[And those who respect their trusts and covenants;]]></Verse>
+	<Verse VerseID="33"><![CDATA[And those who stand firm in their testimonies;]]></Verse>
+	<Verse VerseID="34"><![CDATA[And those who guard (the sacredness) of their worship;-]]></Verse>
+	<Verse VerseID="35"><![CDATA[Such will be the honoured ones in the Gardens (of Bliss).]]></Verse>
+	<Verse VerseID="36"><![CDATA[Now what is the matter with the Unbelievers that they rush madly before thee-]]></Verse>
+	<Verse VerseID="37"><![CDATA[From the right and from the left, in crowds?]]></Verse>
+	<Verse VerseID="38"><![CDATA[Does every man of them long to enter the Garden of Bliss?]]></Verse>
+	<Verse VerseID="39"><![CDATA[By no means! For We have created them out of the (base matter) they know!]]></Verse>
+	<Verse VerseID="40"><![CDATA[Now I do call to witness the Lord of all points in the East and the West that We can certainly-]]></Verse>
+	<Verse VerseID="41"><![CDATA[Substitute for them better (men) than they; And We are not to be defeated (in Our Plan).]]></Verse>
+	<Verse VerseID="42"><![CDATA[So leave them to plunge in vain talk and play about, until they encounter that Day of theirs which they have been promised!-]]></Verse>
+	<Verse VerseID="43"><![CDATA[The Day whereon they will issue from their sepulchres in sudden haste as if they were rushing to a goal-post (fixed for them),-]]></Verse>
+	<Verse VerseID="44"><![CDATA[Their eyes lowered in dejection,- ignominy covering them (all over)! such is the Day the which they are promised!]]></Verse>
+</Chapter>

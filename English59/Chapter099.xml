@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="99" ChapterName="The Shaking">
+	<Verse VerseID="1"><![CDATA[When the earth is shaken to her (utmost) convulsion,]]></Verse>
+	<Verse VerseID="2"><![CDATA[And the earth throws up her burdens (from within),]]></Verse>
+	<Verse VerseID="3"><![CDATA[And man cries (distressed): ´What is the matter with her?´-]]></Verse>
+	<Verse VerseID="4"><![CDATA[On that Day will she declare her tidings:]]></Verse>
+	<Verse VerseID="5"><![CDATA[For that thy Lord will have given her inspiration.]]></Verse>
+	<Verse VerseID="6"><![CDATA[On that Day will men proceed in companies sorted out, to be shown the deeds that they (had done).]]></Verse>
+	<Verse VerseID="7"><![CDATA[Then shall anyone who has done an atom´s weight of good, see it!]]></Verse>
+	<Verse VerseID="8"><![CDATA[And anyone who has done an atom´s weight of evil, shall see it.]]></Verse>
+</Chapter>

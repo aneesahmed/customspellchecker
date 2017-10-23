@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="102" ChapterName="The Multiplicatio">
+	<Verse VerseID="1"><![CDATA[The mutual rivalry for piling up (the good things of this world) diverts you (from the more serious things),]]></Verse>
+	<Verse VerseID="2"><![CDATA[Until ye visit the graves.]]></Verse>
+	<Verse VerseID="3"><![CDATA[But nay, ye soon shall know (the reality).]]></Verse>
+	<Verse VerseID="4"><![CDATA[Again, ye soon shall know!]]></Verse>
+	<Verse VerseID="5"><![CDATA[Nay, were ye to know with certainty of mind, (ye would beware!)]]></Verse>
+	<Verse VerseID="6"><![CDATA[Ye shall certainly see Hell-Fire!]]></Verse>
+	<Verse VerseID="7"><![CDATA[Again, ye shall see it with certainty of sight!]]></Verse>
+	<Verse VerseID="8"><![CDATA[Then, shall ye be questioned that Day about the joy (ye indulged in!).]]></Verse>
+</Chapter>

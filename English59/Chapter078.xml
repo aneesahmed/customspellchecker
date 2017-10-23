@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="78" ChapterName="The Great Event">
+	<Verse VerseID="1"><![CDATA[Concerning what are they disputing?]]></Verse>
+	<Verse VerseID="2"><![CDATA[Concerning the Great News,]]></Verse>
+	<Verse VerseID="3"><![CDATA[About which they cannot agree.]]></Verse>
+	<Verse VerseID="4"><![CDATA[Verily, they shall soon (come to) know!]]></Verse>
+	<Verse VerseID="5"><![CDATA[Verily, verily they shall soon (come to) know!]]></Verse>
+	<Verse VerseID="6"><![CDATA[Have We not made the earth as a wide expanse,]]></Verse>
+	<Verse VerseID="7"><![CDATA[And the mountains as pegs?]]></Verse>
+	<Verse VerseID="8"><![CDATA[And (have We not) created you in pairs,]]></Verse>
+	<Verse VerseID="9"><![CDATA[And made your sleep for rest,]]></Verse>
+	<Verse VerseID="10"><![CDATA[And made the night as a covering,]]></Verse>
+	<Verse VerseID="11"><![CDATA[And made the day as a means of subsistence?]]></Verse>
+	<Verse VerseID="12"><![CDATA[And (have We not) built over you the seven firmaments,]]></Verse>
+	<Verse VerseID="13"><![CDATA[And placed (therein) a Light of Splendour?]]></Verse>
+	<Verse VerseID="14"><![CDATA[And do We not send down from the clouds water in abundance,]]></Verse>
+	<Verse VerseID="15"><![CDATA[That We may produce therewith corn and vegetables,]]></Verse>
+	<Verse VerseID="16"><![CDATA[And gardens of luxurious growth?]]></Verse>
+	<Verse VerseID="17"><![CDATA[Verily the Day of Sorting out is a thing appointed,]]></Verse>
+	<Verse VerseID="18"><![CDATA[The Day that the Trumpet shall be sounded, and ye shall come forth in crowds;]]></Verse>
+	<Verse VerseID="19"><![CDATA[And the heavens shall be opened as if there were doors,]]></Verse>
+	<Verse VerseID="20"><![CDATA[And the mountains shall vanish, as if they were a mirage.]]></Verse>
+	<Verse VerseID="21"><![CDATA[Truly Hell is as a place of ambush,]]></Verse>
+	<Verse VerseID="22"><![CDATA[For the transgressors a place of destination:]]></Verse>
+	<Verse VerseID="23"><![CDATA[They will dwell therein for ages.]]></Verse>
+	<Verse VerseID="24"><![CDATA[Nothing cool shall they taste therein, nor any drink,]]></Verse>
+	<Verse VerseID="25"><![CDATA[Save a boiling fluid and a fluid, dark, murky, intensely cold,]]></Verse>
+	<Verse VerseID="26"><![CDATA[A fitting recompense (for them).]]></Verse>
+	<Verse VerseID="27"><![CDATA[For that they used not to fear any account (for their deeds),]]></Verse>
+	<Verse VerseID="28"><![CDATA[But they (impudently) treated Our Signs as false.]]></Verse>
+	<Verse VerseID="29"><![CDATA[And all things have We preserved on record.]]></Verse>
+	<Verse VerseID="30"><![CDATA["So taste ye (the fruits of your deeds); for no increase shall We grant you, except in Punishment."]]></Verse>
+	<Verse VerseID="31"><![CDATA[Verily for the Righteous there will be a fulfilment of (the heart´s) desires;]]></Verse>
+	<Verse VerseID="32"><![CDATA[Gardens enclosed, and grapevines;]]></Verse>
+	<Verse VerseID="33"><![CDATA[And voluptuous women of equal age;]]></Verse>
+	<Verse VerseID="34"><![CDATA[And a cup full (to the brim).]]></Verse>
+	<Verse VerseID="35"><![CDATA[No vanity shall they hear therein, nor Untruth:-]]></Verse>
+	<Verse VerseID="36"><![CDATA[Recompense from thy Lord, a gift, (amply) sufficient,]]></Verse>
+	<Verse VerseID="37"><![CDATA[(From) the Lord of the heavens and the earth, and all between, (Allah) Most Gracious: None shall have power to argue with Him.]]></Verse>
+	<Verse VerseID="38"><![CDATA[The Day that the Spirit and the angels will stand forth in ranks, none shall speak except any who is permitted by (Allah) Most Gracious, and He will say what is right.]]></Verse>
+	<Verse VerseID="39"><![CDATA[That Day will be the sure Reality: Therefore, whoso will, let him take a (straight) return to his Lord!]]></Verse>
+	<Verse VerseID="40"><![CDATA[Verily, We have warned you of a Penalty near, the Day when man will see (the deeds) which his hands have sent forth, and the Unbeliever will say, "Woe unto me! Would that I were (metre) dust!"]]></Verse>
+</Chapter>

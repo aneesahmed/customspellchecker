@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="87" ChapterName="The Most High">
+	<Verse VerseID="1"><![CDATA[Glorify the name of thy Guardian-Lord Most High,]]></Verse>
+	<Verse VerseID="2"><![CDATA[Who hath created, and further, given order and proportion;]]></Verse>
+	<Verse VerseID="3"><![CDATA[Who hath ordained laws. And granted guidance;]]></Verse>
+	<Verse VerseID="4"><![CDATA[And Who bringeth out the (green and luscious) pasture,]]></Verse>
+	<Verse VerseID="5"><![CDATA[And then doth make it (but) swarthy stubble.]]></Verse>
+	<Verse VerseID="6"><![CDATA[By degrees shall We teach thee to declare (the Message), so thou shalt not forget,]]></Verse>
+	<Verse VerseID="7"><![CDATA[Except as Allah wills: For He knoweth what is manifest and what is hidden.]]></Verse>
+	<Verse VerseID="8"><![CDATA[And We will make it easy for thee (to follow) the simple (Path).]]></Verse>
+	<Verse VerseID="9"><![CDATA[Therefore give admonition in case the admonition profits (the hearer).]]></Verse>
+	<Verse VerseID="10"><![CDATA[The admonition will be received by those who fear (Allah):]]></Verse>
+	<Verse VerseID="11"><![CDATA[But it will be avoided by those most unfortunate ones,]]></Verse>
+	<Verse VerseID="12"><![CDATA[Who will enter the Great Fire,]]></Verse>
+	<Verse VerseID="13"><![CDATA[In which they will then neither die nor live.]]></Verse>
+	<Verse VerseID="14"><![CDATA[But those will prosper who purify themselves,]]></Verse>
+	<Verse VerseID="15"><![CDATA[And glorify the name of their Guardian-Lord, and (lift their hearts) in prayer.]]></Verse>
+	<Verse VerseID="16"><![CDATA[Day (behold), ye prefer the life of this world;]]></Verse>
+	<Verse VerseID="17"><![CDATA[But the Hereafter is better and more enduring.]]></Verse>
+	<Verse VerseID="18"><![CDATA[And this is in the Books of the earliest (Revelation),-]]></Verse>
+	<Verse VerseID="19"><![CDATA[The Books of Abraham and Moses.]]></Verse>
+</Chapter>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="113" ChapterName="The Dawn">
+	<Verse VerseID="1"><![CDATA[Say: I seek refuge with the Lord of the Dawn]]></Verse>
+	<Verse VerseID="2"><![CDATA[From the mischief of created things;]]></Verse>
+	<Verse VerseID="3"><![CDATA[From the mischief of Darkness as it overspreads;]]></Verse>
+	<Verse VerseID="4"><![CDATA[From the mischief of those who practise secret arts;]]></Verse>
+	<Verse VerseID="5"><![CDATA[And from the mischief of the envious one as he practises envy.]]></Verse>
+</Chapter>

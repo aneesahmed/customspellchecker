@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="71" ChapterName="Nuh">
+	<Verse VerseID="1"><![CDATA[We sent Noah to his People (with the Command): "Do thou warn thy People before there comes to them a grievous Penalty."]]></Verse>
+	<Verse VerseID="2"><![CDATA[He said: "O my People! I am to you a Warner, clear and open:]]></Verse>
+	<Verse VerseID="3"><![CDATA["That ye should worship Allah, fear Him and obey me:]]></Verse>
+	<Verse VerseID="4"><![CDATA["So He may forgive you your sins and give you respite for a stated Term: for when the Term given by Allah is accomplished, it cannot be put forward: if ye only knew."]]></Verse>
+	<Verse VerseID="5"><![CDATA[He said: "O my Lord! I have called to my People night and day:]]></Verse>
+	<Verse VerseID="6"><![CDATA["But my call only increases (their) flight (from the Right).]]></Verse>
+	<Verse VerseID="7"><![CDATA["And every time I have called to them, that Thou mightest forgive them, they have (only) thrust their fingers into their ears, covered themselves up with their garments, grown obstinate, and given themselves up to arrogance.]]></Verse>
+	<Verse VerseID="8"><![CDATA["So I have called to them aloud;]]></Verse>
+	<Verse VerseID="9"><![CDATA["Further I have spoken to them in public and secretly in private,]]></Verse>
+	<Verse VerseID="10"><![CDATA["Saying, ´Ask forgiveness from your Lord; for He is Oft-Forgiving;]]></Verse>
+	<Verse VerseID="11"><![CDATA["´He will send rain to you in abundance;]]></Verse>
+	<Verse VerseID="12"><![CDATA["´Give you increase in wealth and sons; and bestow on you gardens and bestow on you rivers (of flowing water).]]></Verse>
+	<Verse VerseID="13"><![CDATA["´What is the matter with you, that ye place not your hope for kindness and long-suffering in Allah,-]]></Verse>
+	<Verse VerseID="14"><![CDATA["´Seeing that it is He that has created you in diverse stages?]]></Verse>
+	<Verse VerseID="15"><![CDATA["´See ye not how Allah has created the seven heavens one above another,]]></Verse>
+	<Verse VerseID="16"><![CDATA["´And made the moon a light in their midst, and made the sun as a (Glorious) Lamp?]]></Verse>
+	<Verse VerseID="17"><![CDATA["´And Allah has produced you from the earth growing (gradually),]]></Verse>
+	<Verse VerseID="18"><![CDATA["´And in the End He will return you into the (earth), and raise you forth (again at the Resurrection)?]]></Verse>
+	<Verse VerseID="19"><![CDATA["´And Allah has made the earth for you as a carpet (spread out),]]></Verse>
+	<Verse VerseID="20"><![CDATA["´That ye may go about therein, in spacious roads.´"]]></Verse>
+	<Verse VerseID="21"><![CDATA[Noah said: "O my Lord! They have disobeyed me, but they follow (men) whose wealth and children give them no increase but only Loss.]]></Verse>
+	<Verse VerseID="22"><![CDATA["And they have devised a tremendous Plot.]]></Verse>
+	<Verse VerseID="23"><![CDATA["And they have said (to each other), ´Abandon not your gods: Abandon neither Wadd nor Suwa´, neither Yaguth nor Ya´uq, nor Nasr´;-]]></Verse>
+	<Verse VerseID="24"><![CDATA["They have already misled many; and grant Thou no increase to the wrong-doers but in straying (from their mark)."]]></Verse>
+	<Verse VerseID="25"><![CDATA[Because of their sins they were drowned (in the flood), and were made to enter the Fire (of Punishment): and they found- in lieu of Allah- none to help them.]]></Verse>
+	<Verse VerseID="26"><![CDATA[And Noah, said: "O my Lord! Leave not of the Unbelievers, a single one on earth!]]></Verse>
+	<Verse VerseID="27"><![CDATA["For, if Thou dost leave (any of) them, they will but mislead Thy devotees, and they will breed none but wicked ungrateful ones.]]></Verse>
+	<Verse VerseID="28"><![CDATA["O my Lord! Forgive me, my parents, all who enter my house in Faith, and (all) believing men and believing women: and to the wrong-doers grant Thou no increase but in perdition!"]]></Verse>
+</Chapter>

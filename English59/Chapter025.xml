@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="25" ChapterName="The Criterion">
+	<Verse VerseID="1"><![CDATA[Blessed is He who sent down the criterion to His servant, that it may be an admonition to all creatures;-]]></Verse>
+	<Verse VerseID="2"><![CDATA[He to whom belongs the dominion of the heavens and the earth: no son has He begotten, nor has He a partner in His dominion: it is He who created all things, and ordered them in due proportions.]]></Verse>
+	<Verse VerseID="3"><![CDATA[Yet have they taken, besides him, gods that can create nothing but are themselves created; that have no control of hurt or good to themselves; nor can they control death nor life nor resurrection.]]></Verse>
+	<Verse VerseID="4"><![CDATA[But the misbelievers say: "Naught is this but a lie which he has forged, and others have helped him at it." In truth it is they who have put forward an iniquity and a falsehood.]]></Verse>
+	<Verse VerseID="5"><![CDATA[And they say: "Tales of the ancients, which he has caused to be written: and they are dictated before him morning and evening."]]></Verse>
+	<Verse VerseID="6"><![CDATA[Say: "The (Qur´an) was sent down by Him who knows the mystery (that is) in the heavens and the earth: verily He is Oft-Forgiving, Most Merciful."]]></Verse>
+	<Verse VerseID="7"><![CDATA[And they say: "What sort of a messenger is this, who eats food, and walks through the streets? Why has not an angel been sent down to him to give admonition with him?]]></Verse>
+	<Verse VerseID="8"><![CDATA["Or (Why) has not a treasure been bestowed on him, or why has he (not) a garden for enjoyment?" The wicked say: "Ye follow none other than a man bewitched."]]></Verse>
+	<Verse VerseID="9"><![CDATA[See what kinds of comparisons they make for thee! But they have gone astray, and never a way will they be able to find!]]></Verse>
+	<Verse VerseID="10"><![CDATA[Blessed is He who, if that were His will, could give thee better (things) than those,- Gardens beneath which rivers flow; and He could give thee palaces (secure to dwell in).]]></Verse>
+	<Verse VerseID="11"><![CDATA[Nay they deny the hour (of the judgment to come): but We have prepared a blazing fire for such as deny the hour:]]></Verse>
+	<Verse VerseID="12"><![CDATA[When it sees them from a place fAr off, they will hear its fury and its ranging sigh.]]></Verse>
+	<Verse VerseID="13"><![CDATA[And when they are cast, bound together into a constricted place therein, they will pLead for destruction there and then!]]></Verse>
+	<Verse VerseID="14"><![CDATA["This day plead not for a single destruction: plead for destruction oft-repeated!"]]></Verse>
+	<Verse VerseID="15"><![CDATA[Say: "Is that best, or the eternal garden, promised to the righteous? for them, that is a reward as well as a goal (of attainment).]]></Verse>
+	<Verse VerseID="16"><![CDATA["For them there will be therein all that they wish for: they will dwell (there) for aye: A promise to be prayed for from thy Lord."]]></Verse>
+	<Verse VerseID="17"><![CDATA[The day He will gather them together as well as those whom they worship besides Allah, He will ask: "Was it ye who let these My servants astray, or did they stray from the Path themselves?"]]></Verse>
+	<Verse VerseID="18"><![CDATA[They will say: "Glory to Thee! not meet was it for us that we should take for protectors others besides Thee: But Thou didst bestow, on them and their fathers, good things (in life), until they forgot the Message: for they were a people (worthless and) lost."]]></Verse>
+	<Verse VerseID="19"><![CDATA[(Allah will say): "Now have they proved you liars in what ye say: so ye cannot avert (your penalty) nor (get) help." And whoever among you does wrong, him shall We cause to taste of a grievous Penalty.]]></Verse>
+	<Verse VerseID="20"><![CDATA[And the messengers whom We sent before thee were all (men) who ate food and walked through the streets: We have made some of you as a trial for others: will ye have patience? for Allah is One Who sees (all things).]]></Verse>
+	<Verse VerseID="21"><![CDATA[Such as fear not the meeting with Us (for Judgment) say: "Why are not the angels sent down to us, or (why) do we not see our Lord?" Indeed they have an arrogant conceit of themselves, and mighty is the insolence of their impiety!]]></Verse>
+	<Verse VerseID="22"><![CDATA[The Day they see the angels,- no joy will there be to the sinners that Day: The (angels) will say: "There is a barrier forbidden (to you) altogether!"]]></Verse>
+	<Verse VerseID="23"><![CDATA[And We shall turn to whatever deeds they did (in this life), and We shall make such deeds as floating dust scattered about.]]></Verse>
+	<Verse VerseID="24"><![CDATA[The Companions of the Garden will be well, that Day, in their abode, and have the fairest of places for repose.]]></Verse>
+	<Verse VerseID="25"><![CDATA[The Day the heaven shall be rent asunder with clouds, and angels shall be sent down, descending (in ranks),-]]></Verse>
+	<Verse VerseID="26"><![CDATA[That Day, the dominion as of right and truth, shall be (wholly) for (Allah) Most Merciful: it will be a Day of dire difficulty for the Misbelievers.]]></Verse>
+	<Verse VerseID="27"><![CDATA[The Day that the wrong-doer will bite at his hands, he will say, "Oh! would that I had taken a (straight) path with the Messenger!]]></Verse>
+	<Verse VerseID="28"><![CDATA["Ah! woe is me! Would that I had never taken such a one for a friend!]]></Verse>
+	<Verse VerseID="29"><![CDATA["He did lead me astray from the Message (of Allah) after it had come to me! Ah! the Evil One is but a traitor to man!"]]></Verse>
+	<Verse VerseID="30"><![CDATA[Then the Messenger will say: "O my Lord! Truly my people took this Qur´an for just foolish nonsense."]]></Verse>
+	<Verse VerseID="31"><![CDATA[Thus have We made for every prophet an enemy among the sinners: but enough is thy Lord to guide and to help.]]></Verse>
+	<Verse VerseID="32"><![CDATA[Those who reject Faith say: "Why is not the Qur´an revealed to him all at once? Thus (is it revealed), that We may strengthen thy heart thereby, and We have rehearsed it to thee in slow, well-arranged stages, gradually.]]></Verse>
+	<Verse VerseID="33"><![CDATA[And no question do they bring to thee but We reveal to thee the truth and the best explanation (thereof).]]></Verse>
+	<Verse VerseID="34"><![CDATA[Those who will be gathered to Hell (prone) on their faces,- they will be in an evil plight, and, as to Path, most astray.]]></Verse>
+	<Verse VerseID="35"><![CDATA[(Before this,) We sent Moses The Book, and appointed his brother Aaron with him as minister;]]></Verse>
+	<Verse VerseID="36"><![CDATA[And We command: "Go ye both, to the people who have rejected our Signs:" And those (people) We destroyed with utter destruction.]]></Verse>
+	<Verse VerseID="37"><![CDATA[And the people of Noah,- when they rejected the messengers, We drowned them, and We made them as a Sign for mankind; and We have prepared for (all) wrong-doers a grievous Penalty;-]]></Verse>
+	<Verse VerseID="38"><![CDATA[As also ´Ad and Thamud, and the Companions of the Rass, and many a generation between them.]]></Verse>
+	<Verse VerseID="39"><![CDATA[To each one We set forth Parables and examples; and each one We broke to utter annihilation (for their sins).]]></Verse>
+	<Verse VerseID="40"><![CDATA[And the (Unbelievers) must indeed have passed by the town on which was rained a shower of evil: did they not then see it (with their own eyes)? But they fear not the Resurrection.]]></Verse>
+	<Verse VerseID="41"><![CDATA[When they see thee, they treat thee no otherwise than in mockery: "Is this the one whom Allah has sent as a messenger?"]]></Verse>
+	<Verse VerseID="42"><![CDATA["He indeed would well-nigh have misled us from our gods, had it not been that we were constant to them!" - Soon will they know, when they see the Penalty, who it is that is most misled in Path!]]></Verse>
+	<Verse VerseID="43"><![CDATA[Seest thou such a one as taketh for his god his own passion (or impulse)? Couldst thou be a disposer of affairs for him?]]></Verse>
+	<Verse VerseID="44"><![CDATA[Or thinkest thou that most of them listen or understand? They are only like cattle;- nay, they are worse astray in Path.]]></Verse>
+	<Verse VerseID="45"><![CDATA[Hast thou not turned thy vision to thy Lord?- How He doth prolong the shadow! If He willed, He could make it stationary! then do We make the sun its guide;]]></Verse>
+	<Verse VerseID="46"><![CDATA[Then We draw it in towards Ourselves,- a contraction by easy stages.]]></Verse>
+	<Verse VerseID="47"><![CDATA[And He it is Who makes the Night as a Robe for you, and Sleep as Repose, and makes the Day (as it were) a Resurrection.]]></Verse>
+	<Verse VerseID="48"><![CDATA[And He it is Who sends the winds as heralds of glad tidings, going before His mercy, and We send down pure water from the sky,-]]></Verse>
+	<Verse VerseID="49"><![CDATA[That with it We may give life to a dead land, and slake the thirst of things We have created,- cattle and men in great numbers.]]></Verse>
+	<Verse VerseID="50"><![CDATA[And We have distributed the (water) amongst them, in order that they may celebrate (our) praises, but most men are averse (to aught) but (rank) ingratitude.]]></Verse>
+	<Verse VerseID="51"><![CDATA[Had it been Our Will, We could have sent a warner to every centre of population.]]></Verse>
+	<Verse VerseID="52"><![CDATA[Therefore listen not to the Unbelievers, but strive against them with the utmost strenuousness, with the (Qur´an).]]></Verse>
+	<Verse VerseID="53"><![CDATA[It is He Who has let free the two bodies of flowing water: One palatable and sweet, and the other salt and bitter; yet has He made a barrier between them, a partition that is forbidden to be passed.]]></Verse>
+	<Verse VerseID="54"><![CDATA[It is He Who has created man from water: then has He established relationships of lineage and marriage: for thy Lord has power (over all things).]]></Verse>
+	<Verse VerseID="55"><![CDATA[Yet do they worship, besides Allah, things that can neither profit them nor harm them: and the Misbeliever is a helper (of Evil), against his own Lord!]]></Verse>
+	<Verse VerseID="56"><![CDATA[But thee We only sent to give glad tidings and admonition.]]></Verse>
+	<Verse VerseID="57"><![CDATA[Say: "No reward do I ask of you for it but this: that each one who will may take a (straight) Path to his Lord."]]></Verse>
+	<Verse VerseID="58"><![CDATA[And put thy trust in Him Who lives and dies not; and celebrate his praise; and enough is He to be acquainted with the faults of His servants;-]]></Verse>
+	<Verse VerseID="59"><![CDATA[He Who created the heavens and the earth and all that is between, in six days, and is firmly established on the Throne (of Authority): Allah Most Gracious: ask thou, then, about Him of any acquainted (with such things).]]></Verse>
+	<Verse VerseID="60"><![CDATA[When it is said to them, "Prostrate to (Allah) Most Gracious!", they say, "And what is (Allah) Most Gracious? Shall we prostrate to that which thou commandest us?" And it increases their flight (from the Truth).]]></Verse>
+	<Verse VerseID="61"><![CDATA[Blessed is He Who made constellations in the skies, and placed therein a Lamp and a Moon giving light;]]></Verse>
+	<Verse VerseID="62"><![CDATA[And it is He Who made the Night and the Day to follow each other: for such as have the will to celebrate His praises or to show their gratitude.]]></Verse>
+	<Verse VerseID="63"><![CDATA[And the servants of (Allah) Most Gracious are those who walk on the earth in humility, and when the ignorant address them, they say, "Peace!";]]></Verse>
+	<Verse VerseID="64"><![CDATA[Those who spend the night in adoration of their Lord prostrate and standing;]]></Verse>
+	<Verse VerseID="65"><![CDATA[Those who say, "Our Lord! avert from us the Wrath of Hell, for its Wrath is indeed an affliction grievous,-]]></Verse>
+	<Verse VerseID="66"><![CDATA["Evil indeed is it as an abode, and as a place to rest in";]]></Verse>
+	<Verse VerseID="67"><![CDATA[Those who, when they spend, are not extravagant and not niggardly, but hold a just (balance) between those (extremes);]]></Verse>
+	<Verse VerseID="68"><![CDATA[Those who invoke not, with Allah, any other god, nor slay such life as Allah has made sacred except for just cause, nor commit fornication; - and any that does this (not only) meets punishment.]]></Verse>
+	<Verse VerseID="69"><![CDATA[(But) the Penalty on the Day of Judgment will be doubled to him, and he will dwell therein in ignominy,-]]></Verse>
+	<Verse VerseID="70"><![CDATA[Unless he repents, believes, and works righteous deeds, for Allah will change the evil of such persons into good, and Allah is Oft-Forgiving, Most Merciful,]]></Verse>
+	<Verse VerseID="71"><![CDATA[And whoever repents and does good has truly turned to Allah with an (acceptable) conversion;-]]></Verse>
+	<Verse VerseID="72"><![CDATA[Those who witness no falsehood, and, if they pass by futility, they pass by it with honourable (avoidance);]]></Verse>
+	<Verse VerseID="73"><![CDATA[Those who, when they are admonished with the Signs of their Lord, droop not down at them as if they were deaf or blind;]]></Verse>
+	<Verse VerseID="74"><![CDATA[And those who pray, "Our Lord! Grant unto us wives and offspring who will be the comfort of our eyes, and give us (the grace) to lead the righteous."]]></Verse>
+	<Verse VerseID="75"><![CDATA[Those are the ones who will be rewarded with the highest place in heaven, because of their patient constancy: therein shall they be met with salutations and peace,]]></Verse>
+	<Verse VerseID="76"><![CDATA[Dwelling therein;- how beautiful an abode and place of rest!]]></Verse>
+	<Verse VerseID="77"><![CDATA[Say (to the Rejecters): "My Lord is not uneasy because of you if ye call not on Him: But ye have indeed rejected (Him), and soon will come the inevitable (punishment)!"]]></Verse>
+</Chapter>

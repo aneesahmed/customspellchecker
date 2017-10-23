@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="80" ChapterName="He Frowned">
+	<Verse VerseID="1"><![CDATA[(The Prophet) frowned and turned away,]]></Verse>
+	<Verse VerseID="2"><![CDATA[Because there came to him the blind man (interrupting).]]></Verse>
+	<Verse VerseID="3"><![CDATA[But what could tell thee but that perchance he might grow (in spiritual understanding)?-]]></Verse>
+	<Verse VerseID="4"><![CDATA[Or that he might receive admonition, and the teaching might profit him?]]></Verse>
+	<Verse VerseID="5"><![CDATA[As to one who regards Himself as self-sufficient,]]></Verse>
+	<Verse VerseID="6"><![CDATA[To him dost thou attend;]]></Verse>
+	<Verse VerseID="7"><![CDATA[Though it is no blame to thee if he grow not (in spiritual understanding).]]></Verse>
+	<Verse VerseID="8"><![CDATA[But as to him who came to thee striving earnestly,]]></Verse>
+	<Verse VerseID="9"><![CDATA[And with fear (in his heart),]]></Verse>
+	<Verse VerseID="10"><![CDATA[Of him wast thou unmindful.]]></Verse>
+	<Verse VerseID="11"><![CDATA[By no means (should it be so)! For it is indeed a Message of instruction:]]></Verse>
+	<Verse VerseID="12"><![CDATA[Therefore let whoso will, keep it in remembrance.]]></Verse>
+	<Verse VerseID="13"><![CDATA[(It is) in Books held (greatly) in honour,]]></Verse>
+	<Verse VerseID="14"><![CDATA[Exalted (in dignity), kept pure and holy,]]></Verse>
+	<Verse VerseID="15"><![CDATA[(Written) by the hands of scribes-]]></Verse>
+	<Verse VerseID="16"><![CDATA[Honourable and Pious and Just.]]></Verse>
+	<Verse VerseID="17"><![CDATA[Woe to man! What hath made him reject Allah;]]></Verse>
+	<Verse VerseID="18"><![CDATA[From what stuff hath He created him?]]></Verse>
+	<Verse VerseID="19"><![CDATA[From a sperm-drop: He hath created him, and then mouldeth him in due proportions;]]></Verse>
+	<Verse VerseID="20"><![CDATA[Then doth He make His path smooth for him;]]></Verse>
+	<Verse VerseID="21"><![CDATA[Then He causeth him to die, and putteth him in his grave;]]></Verse>
+	<Verse VerseID="22"><![CDATA[Then, when it is His Will, He will raise him up (again).]]></Verse>
+	<Verse VerseID="23"><![CDATA[By no means hath he fulfilled what Allah hath commanded him.]]></Verse>
+	<Verse VerseID="24"><![CDATA[Then let man look at his food, (and how We provide it):]]></Verse>
+	<Verse VerseID="25"><![CDATA[For that We pour forth water in abundance,]]></Verse>
+	<Verse VerseID="26"><![CDATA[And We split the earth in fragments,]]></Verse>
+	<Verse VerseID="27"><![CDATA[And produce therein corn,]]></Verse>
+	<Verse VerseID="28"><![CDATA[And Grapes and nutritious plants,]]></Verse>
+	<Verse VerseID="29"><![CDATA[And Olives and Dates,]]></Verse>
+	<Verse VerseID="30"><![CDATA[And enclosed Gardens, dense with lofty trees,]]></Verse>
+	<Verse VerseID="31"><![CDATA[And fruits and fodder,-]]></Verse>
+	<Verse VerseID="32"><![CDATA[For use and convenience to you and your cattle.]]></Verse>
+	<Verse VerseID="33"><![CDATA[At length, when there comes the Deafening Noise,-]]></Verse>
+	<Verse VerseID="34"><![CDATA[That Day shall a man flee from his own brother,]]></Verse>
+	<Verse VerseID="35"><![CDATA[And from his mother and his father,]]></Verse>
+	<Verse VerseID="36"><![CDATA[And from his wife and his children.]]></Verse>
+	<Verse VerseID="37"><![CDATA[Each one of them, that Day, will have enough concern (of his own) to make him indifferent to the others.]]></Verse>
+	<Verse VerseID="38"><![CDATA[Some faces that Day will be beaming,]]></Verse>
+	<Verse VerseID="39"><![CDATA[Laughing, rejoicing.]]></Verse>
+	<Verse VerseID="40"><![CDATA[And other faces that Day will be dust-stained,]]></Verse>
+	<Verse VerseID="41"><![CDATA[Blackness will cover them:]]></Verse>
+	<Verse VerseID="42"><![CDATA[Such will be the Rejecters of Allah, the doers of iniquity.]]></Verse>
+</Chapter>

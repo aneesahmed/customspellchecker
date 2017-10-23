@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 03 February 2014 07:40 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="108" ChapterName="The Heavenly Fount">
+	<Verse VerseID="1"><![CDATA[To thee have We granted the Fount (of Abundance).]]></Verse>
+	<Verse VerseID="2"><![CDATA[Therefore to thy Lord turn in Prayer and Sacrifice.]]></Verse>
+	<Verse VerseID="3"><![CDATA[For he who hateth thee, he will be cut off (from Future Hope).]]></Verse>
+</Chapter>
