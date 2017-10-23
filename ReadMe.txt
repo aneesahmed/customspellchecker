@@ -12,3 +12,9 @@ How to Use:
 ----------
 for testing, we have added a python file spellcheck.py
 which call corrections function that return correct word or candidates words.
+
+Dependancy:
+----------
+english59 (folder of 0-quran.rar not included due to size limit)
+Python 3.6
+nltk (using pip install nltk)
